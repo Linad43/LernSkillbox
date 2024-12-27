@@ -1,4 +1,4 @@
-#include "HeaderCoopFun.h"
+﻿#include "HeaderCoopFun.h"
 
 int nod(int a, int b) {
 	a = abs(a);

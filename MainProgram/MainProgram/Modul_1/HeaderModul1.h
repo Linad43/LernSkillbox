@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "..\HeaderMain.h"
 
 void ex1();

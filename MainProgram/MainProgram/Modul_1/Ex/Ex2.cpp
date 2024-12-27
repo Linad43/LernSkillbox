@@ -1,15 +1,15 @@
-#include "..\HeaderModul1.h"
+ï»¿#include "..\HeaderModul1.h"
 void ex2() {
-	std::cout << "2. Êàëüêóëÿòîð ñòîèìîñòè òîâàðà\n";
+	std::cout << "2. ÐšÐ°Ð»ÑŒÐºÑƒÐ»ÑÑ‚Ð¾Ñ€ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚Ð¸ Ñ‚Ð¾Ð²Ð°Ñ€Ð°\n";
 	int cost, costProd, costTf;
-	std::cout << "Ââåäèòå ñòîèìîñòü òîâàðà: ";
+	std::cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ð°: ";
 	std::cin >> costProd;
 	//costProd = 10;
 	std::cout << costProd << "\n";
-	std::cout << "Ââåäèòå ñòîèìîñòü äîñòàâêè: ";
+	std::cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ¸: ";
 	std::cin >> costTf;
 	//costTf = 5;
 	std::cout << costTf << "\n";
 	cost = costProd + costTf;
-	std::cout << "Ïîëíàÿ ñòîèìîñòü òîâàðà: " << cost;
+	std::cout << "ÐŸÐ¾Ð»Ð½Ð°Ñ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ Ñ‚Ð¾Ð²Ð°Ñ€Ð°: " << cost;
 }

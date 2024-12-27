@@ -1,4 +1,4 @@
-#include "HeaderCoopFun.h"
+ï»¿#include "HeaderCoopFun.h"
 int createInt(int flag, const char* text) {
 	int var;
 	while (1)
@@ -7,13 +7,13 @@ int createInt(int flag, const char* text) {
 		std::cin >> var;
 		if (flag == 0) {
 			if (var < 0) {
-				std::cout << "Ââåäåííîå çíà÷åíèå íå ìîæåò áûòü îòğèöàòåëüíûì\n";
+				std::cout << "Ğ’Ğ²ĞµĞ´ĞµĞ½Ğ½Ğ¾Ğµ Ğ·Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ğµ Ğ½Ğµ Ğ¼Ğ¾Ğ¶ĞµÑ‚ Ğ±Ñ‹Ñ‚ÑŒ Ğ¾Ñ‚Ñ€Ğ¸Ñ†Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğ¼\n";
 				continue;
 			}
 		}
 		else if (flag > 0) {
 			if (var <= 0) {
-				std::cout << "Ââåäåííîå çíà÷åíèå äîëæíî áûòü âûøå íóëÿ\n";
+				std::cout << "Ğ’Ğ²ĞµĞ´ĞµĞ½Ğ½Ğ¾Ğµ Ğ·Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ğµ Ğ´Ğ¾Ğ»Ğ¶Ğ½Ğ¾ Ğ±Ñ‹Ñ‚ÑŒ Ğ²Ñ‹ÑˆĞµ Ğ½ÑƒĞ»Ñ\n";
 				continue;
 			}
 		}
@@ -22,7 +22,7 @@ int createInt(int flag, const char* text) {
 	return var;
 }
 int createInt(int flag) {
-	return createInt(flag, "Ââåäèòå çíà÷åíèå ");
+	return createInt(flag, "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ·Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ğµ ");
 }
 float createFloat(int flag, const char* text) {
 	float var;
@@ -32,13 +32,13 @@ float createFloat(int flag, const char* text) {
 		std::cin >> var;
 		if (flag == 0) {
 			if (var < 0) {
-				std::cout << "Ââåäåííîå çíà÷åíèå íå ìîæåò áûòü îòğèöàòåëüíûì\n";
+				std::cout << "Ğ’Ğ²ĞµĞ´ĞµĞ½Ğ½Ğ¾Ğµ Ğ·Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ğµ Ğ½Ğµ Ğ¼Ğ¾Ğ¶ĞµÑ‚ Ğ±Ñ‹Ñ‚ÑŒ Ğ¾Ñ‚Ñ€Ğ¸Ñ†Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğ¼\n";
 				continue;
 			}
 		}
 		else if (flag > 0) {
 			if (var <= 0) {
-				std::cout << "Ââåäåííîå çíà÷åíèå äîëæíî áûòü âûøå íóëÿ\n";
+				std::cout << "Ğ’Ğ²ĞµĞ´ĞµĞ½Ğ½Ğ¾Ğµ Ğ·Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ğµ Ğ´Ğ¾Ğ»Ğ¶Ğ½Ğ¾ Ğ±Ñ‹Ñ‚ÑŒ Ğ²Ñ‹ÑˆĞµ Ğ½ÑƒĞ»Ñ\n";
 				continue;
 			}
 		}
@@ -47,5 +47,5 @@ float createFloat(int flag, const char* text) {
 	return var;
 }
 float createFloat(int flag) {
-	return createFloat(flag, "Ââåäèòå çíà÷åíèå ");
+	return createFloat(flag, "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ·Ğ½Ğ°Ñ‡ĞµĞ½Ğ¸Ğµ ");
 }

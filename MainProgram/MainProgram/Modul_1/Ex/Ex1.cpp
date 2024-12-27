@@ -1,7 +1,7 @@
-#include "..\HeaderModul1.h"
+ï»¿#include "..\HeaderModul1.h"
 void ex1() {
 	//ex1
-	std::cout << "1. Óëó÷øàåì ãîíùèêà\n";
+	std::cout << "1. Ð£Ð»ÑƒÑ‡ÑˆÐ°ÐµÐ¼ Ð³Ð¾Ð½Ñ‰Ð¸ÐºÐ°\n";
 	int lap = 4;
 	//int speed = 358;
 	int engine = 254;
@@ -11,19 +11,19 @@ void ex1() {
 	int rain = 17;
 	int speed = engine + wheels + steerinWheel - (wind + rain);
 	std::cout << "===================\n";
-	std::cout << "Ñóïåð ãîíêè. Êðóã " << lap << "\n";
+	std::cout << "Ð¡ÑƒÐ¿ÐµÑ€ Ð³Ð¾Ð½ÐºÐ¸. ÐšÑ€ÑƒÐ³ " << lap << "\n";
 	std::cout << "===================\n";
-	std::cout << "Øóìàõåð (" << speed << ")\n";
+	std::cout << "Ð¨ÑƒÐ¼Ð°Ñ…ÐµÑ€ (" << speed << ")\n";
 	std::cout << "===================\n";
-	std::cout << "Âîäèòåëü: Øóìàõåð\n";
-	std::cout << "Ñêîðîñòü: " << speed << "\n";
+	std::cout << "Ð’Ð¾Ð´Ð¸Ñ‚ÐµÐ»ÑŒ: Ð¨ÑƒÐ¼Ð°Ñ…ÐµÑ€\n";
+	std::cout << "Ð¡ÐºÐ¾Ñ€Ð¾ÑÑ‚ÑŒ: " << speed << "\n";
 	std::cout << "-------------------\n";
-	std::cout << "Îñíàùåíèå\n";
-	std::cout << "Äâèãàòåëü: +" << engine << "\n";
-	std::cout << "Êîëåñà: +" << wheels << "\n";
-	std::cout << "Ðóëü: +" << steerinWheel << "\n";
+	std::cout << "ÐžÑÐ½Ð°Ñ‰ÐµÐ½Ð¸Ðµ\n";
+	std::cout << "Ð”Ð²Ð¸Ð³Ð°Ñ‚ÐµÐ»ÑŒ: +" << engine << "\n";
+	std::cout << "ÐšÐ¾Ð»ÐµÑÐ°: +" << wheels << "\n";
+	std::cout << "Ð ÑƒÐ»ÑŒ: +" << steerinWheel << "\n";
 	std::cout << "-------------------\n";
-	std::cout << "Äåéñòâèÿ ïëîõîé ïîãîäû\n";
-	std::cout << "Âåòåð: -" << wind << "\n";
-	std::cout << "Äîæäü: -" << rain << "\n";
+	std::cout << "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð¿Ð»Ð¾Ñ…Ð¾Ð¹ Ð¿Ð¾Ð³Ð¾Ð´Ñ‹\n";
+	std::cout << "Ð’ÐµÑ‚ÐµÑ€: -" << wind << "\n";
+	std::cout << "Ð”Ð¾Ð¶Ð´ÑŒ: -" << rain << "\n";
 }
