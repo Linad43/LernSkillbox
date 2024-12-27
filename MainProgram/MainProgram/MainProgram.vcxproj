@@ -191,7 +191,11 @@
     <ClInclude Include="Modul7\header_modul7.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Modul2\ReadMeModul2.md" />
+    <None Include="Modul2\Ex\ReadMe_mod2ex1.md" />
+    <None Include="Modul2\Ex\ReadMe_mod2ex2.md" />
+    <None Include="Modul2\Ex\ReadMe_mod2ex3.md" />
+    <None Include="Modul2\Ex\ReadMe_mod2ex4.md" />
+    <None Include="Modul2\ReadMe_modul2.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
