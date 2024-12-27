@@ -15,22 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Modul2\Modul2.cpp">
+    <ClCompile Include="Modul2\modul2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="CoopFun\CreateVar.cpp">
+    <ClCompile Include="CoopFun\createVar.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="CoopFun\NOKandNOD.cpp">
+    <ClCompile Include="CoopFun\nok&amp;nod.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="CoopFun\Random.cpp">
+    <ClCompile Include="CoopFun\random.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="CoopFun\RusText.cpp">
+    <ClCompile Include="CoopFun\rusText.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Modul2\Ex\mod2ex1.cpp">
@@ -57,10 +57,10 @@
     <ClCompile Include="Modul3\Ex\mod3ex4.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul3\Modul3.cpp">
+    <ClCompile Include="Modul3\modul3.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul4\Modul4.cpp">
+    <ClCompile Include="Modul4\modul4.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Modul4\Ex\mod4ex1.cpp">
@@ -90,7 +90,7 @@
     <ClCompile Include="Modul4\Ex\mod4ex9.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul5\Modul5.cpp">
+    <ClCompile Include="Modul5\modul5.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Modul5\Ex\mod5ex1.cpp">
@@ -111,24 +111,60 @@
     <ClCompile Include="Modul5\Ex\mod5ex6.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Modul6\modul6.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul6\Ex\mod6ex1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul6\Ex\mod6ex2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul6\Ex\mod6ex3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul6\Ex\mod6ex4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul6\Ex\mod6ex5.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul6\Ex\mod6ex6.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul6\Ex\mod6ex7.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul6\Ex\mod6ex8.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul6\Ex\mod6ex9.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CoopFun\fibonacci.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Modul2\HeaderModul2.h">
+    <ClInclude Include="Modul2\header_modul2.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="CoopFun\HeaderCoopFun.h">
+    <ClInclude Include="CoopFun\header_coop_fun.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="HeaderMain.h">
+    <ClInclude Include="header_main.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Modul3\HeaderModul3.h">
+    <ClInclude Include="Modul3\header_modul3.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Modul4\HeaderModul4.h">
+    <ClInclude Include="Modul4\header_modul4.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Modul5\HeaderModul5.h">
+    <ClInclude Include="Modul5\header_modul5.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Modul6\header_modul6.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

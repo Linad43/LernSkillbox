@@ -1,5 +1,4 @@
-﻿//#include "..\HeaderModul2.h"
-#include "..\..\HeaderMain.h"
+﻿#include "..\header_modul2.h"
 
 void mod2ex3() {
 	std::cout << "3. Время, время!\n";

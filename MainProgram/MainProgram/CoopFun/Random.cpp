@@ -1,4 +1,4 @@
-﻿#include "HeaderCoopFun.h"
+﻿#include "header_coop_fun.h"
 /*
 Создание случайного целого числа в пределах от min(включительно) до max(включительно*)
 */

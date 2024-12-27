@@ -1,4 +1,4 @@
-﻿#include "..\HeaderModul4.h"
+﻿#include "..\header_modul4.h"
 
 void mod4ex1() {
 	std::cout << "1. Минимум из двух чисел\n";

@@ -1,4 +1,4 @@
-﻿#include "..\HeaderModul5.h"
+﻿#include "..\header_modul5.h"
 
 void mod5ex2() {
 	std::cout << "2. Майские!" << std::endl;

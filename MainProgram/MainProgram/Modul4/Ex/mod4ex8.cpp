@@ -1,4 +1,4 @@
-﻿#include "..\HeaderModul4.h"
+﻿#include "..\header_modul4.h"
 
 void mod4ex8() {
 	std::cout << "8. Зарплата (необязательная)\n";

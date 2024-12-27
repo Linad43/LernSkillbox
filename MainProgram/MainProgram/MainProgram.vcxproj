@@ -127,21 +127,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CoopFun\CreateVar.cpp" />
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="CoopFun\NOKandNOD.cpp" />
-    <ClCompile Include="CoopFun\Random.cpp" />
-    <ClCompile Include="CoopFun\RusText.cpp" />
+    <ClCompile Include="CoopFun\createVar.cpp" />
+    <ClCompile Include="CoopFun\fibonacci.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="CoopFun\nok&amp;nod.cpp" />
+    <ClCompile Include="CoopFun\random.cpp" />
+    <ClCompile Include="CoopFun\rusText.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex1.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex2.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex3.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex4.cpp" />
-    <ClCompile Include="Modul2\Modul2.cpp" />
+    <ClCompile Include="Modul2\modul2.cpp" />
     <ClCompile Include="Modul3\Ex\mod3ex1.cpp" />
     <ClCompile Include="Modul3\Ex\mod3ex2.cpp" />
     <ClCompile Include="Modul3\Ex\mod3ex3.cpp" />
     <ClCompile Include="Modul3\Ex\mod3ex4.cpp" />
-    <ClCompile Include="Modul3\Modul3.cpp" />
+    <ClCompile Include="Modul3\modul3.cpp" />
     <ClCompile Include="Modul4\Ex\mod4ex1.cpp" />
     <ClCompile Include="Modul4\Ex\mod4ex2.cpp" />
     <ClCompile Include="Modul4\Ex\mod4ex3.cpp" />
@@ -151,22 +152,33 @@
     <ClCompile Include="Modul4\Ex\mod4ex7.cpp" />
     <ClCompile Include="Modul4\Ex\mod4ex8.cpp" />
     <ClCompile Include="Modul4\Ex\mod4ex9.cpp" />
-    <ClCompile Include="Modul4\Modul4.cpp" />
+    <ClCompile Include="Modul4\modul4.cpp" />
     <ClCompile Include="Modul5\Ex\mod5ex1.cpp" />
     <ClCompile Include="Modul5\Ex\mod5ex2.cpp" />
     <ClCompile Include="Modul5\Ex\mod5ex3.cpp" />
     <ClCompile Include="Modul5\Ex\mod5ex4.cpp" />
     <ClCompile Include="Modul5\Ex\mod5ex5.cpp" />
     <ClCompile Include="Modul5\Ex\mod5ex6.cpp" />
-    <ClCompile Include="Modul5\Modul5.cpp" />
+    <ClCompile Include="Modul5\modul5.cpp" />
+    <ClCompile Include="Modul6\Ex\mod6ex1.cpp" />
+    <ClCompile Include="Modul6\Ex\mod6ex2.cpp" />
+    <ClCompile Include="Modul6\Ex\mod6ex3.cpp" />
+    <ClCompile Include="Modul6\Ex\mod6ex4.cpp" />
+    <ClCompile Include="Modul6\Ex\mod6ex5.cpp" />
+    <ClCompile Include="Modul6\Ex\mod6ex6.cpp" />
+    <ClCompile Include="Modul6\Ex\mod6ex7.cpp" />
+    <ClCompile Include="Modul6\Ex\mod6ex8.cpp" />
+    <ClCompile Include="Modul6\Ex\mod6ex9.cpp" />
+    <ClCompile Include="Modul6\modul6.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CoopFun\HeaderCoopFun.h" />
-    <ClInclude Include="HeaderMain.h" />
-    <ClInclude Include="Modul2\HeaderModul2.h" />
-    <ClInclude Include="Modul3\HeaderModul3.h" />
-    <ClInclude Include="Modul4\HeaderModul4.h" />
-    <ClInclude Include="Modul5\HeaderModul5.h" />
+    <ClInclude Include="CoopFun\header_coop_fun.h" />
+    <ClInclude Include="header_main.h" />
+    <ClInclude Include="Modul2\header_modul2.h" />
+    <ClInclude Include="Modul3\header_modul3.h" />
+    <ClInclude Include="Modul4\header_modul4.h" />
+    <ClInclude Include="Modul5\header_modul5.h" />
+    <ClInclude Include="Modul6\header_modul6.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

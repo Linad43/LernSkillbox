@@ -1,5 +1,4 @@
-﻿//#include "..\HeaderModul3.h"
-#include "..\..\HeaderMain.h"
+﻿#include "..\header_modul3.h"
 
 void mod3ex2() {
 	std::cout << "2. Обмен местами.\n";

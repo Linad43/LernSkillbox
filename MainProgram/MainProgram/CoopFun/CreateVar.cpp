@@ -1,4 +1,4 @@
-﻿#include "HeaderCoopFun.h"
+﻿#include "header_coop_fun.h"
 /*
 Ввод целочисленной переменной
 	flag -> 

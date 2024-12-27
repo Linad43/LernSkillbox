@@ -1,4 +1,4 @@
-﻿#include "..\HeaderModul4.h"
+﻿#include "..\header_modul4.h"
 
 void mod4ex3() {
 	std::cout << "3. Проверка на чётное число\n";

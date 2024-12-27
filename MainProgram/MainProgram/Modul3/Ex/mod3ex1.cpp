@@ -1,5 +1,4 @@
-﻿//#include "..\HeaderModul3.h"
-#include "..\..\HeaderMain.h"
+﻿#include "..\header_modul3.h"
 #define PART_DRIVER 0.25
 #define PART_FUEL 0.2
 #define PART_REPAIR 0.2

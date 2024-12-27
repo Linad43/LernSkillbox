@@ -12,3 +12,4 @@ int createInt(int flag, const char* text);
 int createInt(int flag);
 float createFloat(int flag, const char* text);
 float createFloat(int flag);
+int fibonacci(int num);

@@ -1,4 +1,4 @@
-﻿#include "HeaderMain.h"
+﻿#include "header_main.h"
 
 int main() {
 	rusText();
@@ -11,6 +11,7 @@ int main() {
 		std::cout << "3. Модуль 3\n";
 		std::cout << "4. Модуль 4\n";
 		std::cout << "5. Модуль 5\n";
+		std::cout << "6. Модуль 6\n";
 		std::cout << "\n0. Выход\n";
 
 		std::cin >> choise;
@@ -26,25 +27,31 @@ int main() {
 		};
 		case 2: {
 			system("cls");
-			Modul2();
+			modul2();
 			system("cls");
 			break;
 		};
 		case 3: {
 			system("cls");
-			Modul3();
+			modul3();
 			system("cls");
 			break;
 		};
 		case 4: {
 			system("cls");
-			Modul4();
+			modul4();
 			system("cls");
 			break;
 		};
 		case 5: {
 			system("cls");
-			Modul5();
+			modul5();
+			system("cls");
+			break;
+		};
+		case 6: {
+			system("cls");
+			modul6();
 			system("cls");
 			break;
 		};

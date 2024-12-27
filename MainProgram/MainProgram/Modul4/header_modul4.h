@@ -1,5 +1,5 @@
 ﻿#pragma once
-#include "..\HeaderMain.h"
+#include "..\header_main.h"
 
 void mod4ex1();
 void mod4ex2();

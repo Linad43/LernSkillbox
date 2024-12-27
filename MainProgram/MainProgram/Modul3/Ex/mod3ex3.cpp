@@ -1,6 +1,4 @@
-﻿//#include "..\HeaderModul3.h"
-#include "..\..\HeaderMain.h"
-
+﻿#include "..\header_modul3.h"
 
 void mod3ex3() {
 	std::cout << "3. Злостные вредители.\n";

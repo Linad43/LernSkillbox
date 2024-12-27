@@ -1,6 +1,6 @@
-﻿#include "HeaderModul2.h"
+﻿#include "header_modul2.h"
 
-void Modul2() {
+void modul2() {
 	int choise = 1;
 	while (choise > 0) {
 		std::cout << "2.5 Практическая работа\n";

@@ -1,4 +1,4 @@
-﻿#include "..\HeaderModul4.h"
+﻿#include "..\header_modul4.h"
 
 void mod4ex2() {
 	std::cout << "2. Складываем в уме" << std::endl;
