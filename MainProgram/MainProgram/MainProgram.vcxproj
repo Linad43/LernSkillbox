@@ -190,6 +190,9 @@
     <ClInclude Include="Modul6\header_modul6.h" />
     <ClInclude Include="Modul7\header_modul7.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Modul2\ReadMeModul2.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
