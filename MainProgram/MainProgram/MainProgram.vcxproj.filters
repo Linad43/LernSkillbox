@@ -198,4 +198,7 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Modul2\ReadMeModul2.md" />
+  </ItemGroup>
 </Project>
