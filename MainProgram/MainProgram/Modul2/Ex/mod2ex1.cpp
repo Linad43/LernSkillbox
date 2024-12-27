@@ -1,5 +1,7 @@
-﻿#include "..\HeaderModul2.h"
-void ex1() {
+﻿//#include "..\HeaderModul2.h"
+#include "..\..\HeaderMain.h"
+
+void mod2ex1() {
 	//ex1
 	std::cout << "1. Улучшаем гонщика\n";
 	int lap = 4;

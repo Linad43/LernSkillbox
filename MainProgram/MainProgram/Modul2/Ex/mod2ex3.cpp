@@ -1,5 +1,7 @@
-﻿#include "..\HeaderModul2.h"
-void ex3() {
+﻿//#include "..\HeaderModul2.h"
+#include "..\..\HeaderMain.h"
+
+void mod2ex3() {
 	std::cout << "3. Время, время!\n";
 	std::cout << "Эта програма рассчитает, сколько клиентов успеет обслужить кассир за смену.\n";
 	std::cout << "Введите длительность смены: ";

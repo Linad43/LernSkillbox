@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include "..\HeaderMain.h"
 
-void ex1();
-void ex2();
-void ex3();
-void ex4();
+void mod2ex1();
+void mod2ex2();
+void mod2ex3();
+void mod2ex4();

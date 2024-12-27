@@ -1,5 +1,7 @@
-﻿#include "..\HeaderModul2.h"
-void ex4() {
+﻿//#include "..\HeaderModul2.h"
+#include "..\..\HeaderMain.h"
+
+void mod2ex4() {
 	std::cout << "4. Непонятная квитанция\n";
 	std::cout << "Приветствуем вас в калькуляторе квартплаты\n";
 	int sumTot = random(10, 100) * 10000;

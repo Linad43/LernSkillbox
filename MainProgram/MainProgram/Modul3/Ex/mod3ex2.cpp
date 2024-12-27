@@ -1,6 +1,7 @@
-﻿#include "..\HeaderModul3.h"
+﻿//#include "..\HeaderModul3.h"
+#include "..\..\HeaderMain.h"
 
-void ex2() {
+void mod3ex2() {
 	std::cout << "2. Обмен местами.\n";
 	int a = 42;
 	int b = 153;

@@ -1,6 +1,8 @@
-﻿#include "..\HeaderModul3.h"
+﻿//#include "..\HeaderModul3.h"
+#include "..\..\HeaderMain.h"
 
-void ex3() {
+
+void mod3ex3() {
 	std::cout << "3. Злостные вредители.\n";
 	int speedUp = 50;
 	int speedDown = 20;

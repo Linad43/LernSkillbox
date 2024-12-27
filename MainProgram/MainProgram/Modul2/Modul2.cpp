@@ -17,28 +17,28 @@ void Modul2() {
 		{
 		case 1: {
 			system("cls");
-			ex1();
+			mod2ex1();
 			system("pause");
 			system("cls");
 			break;
 		};
 		case 2: {
 			system("cls");
-			ex2();
+			mod2ex2();
 			system("pause");
 			system("cls");
 			break;
 		};
 		case 3: {
 			system("cls");
-			ex3();
+			mod2ex3();
 			system("pause");
 			system("cls");
 			break;
 		};
 		case 4: {
 			system("cls");
-			ex4();
+			mod2ex4();
 			system("pause");
 			system("cls");
 			break;

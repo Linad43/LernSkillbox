@@ -1,5 +1,7 @@
-﻿#include "..\HeaderModul2.h"
-void ex2() {
+﻿//#include "..\HeaderModul2.h"
+#include "..\..\HeaderMain.h"
+
+void mod2ex2() {
 	std::cout << "2. Калькулятор стоимости товара\n";
 	int cost, costProd, costTf;
 	std::cout << "Введите стоимость товара: ";

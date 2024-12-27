@@ -1,6 +1,8 @@
-﻿#include "..\HeaderModul3.h"
+﻿//#include "..\HeaderModul3.h"
+#include "..\..\HeaderMain.h"
 
-void ex4() {
+
+void mod3ex4() {
 	std::cout << "4. Повышаем градус сложности*.\n";
 	int a = 42;
 	int b = 153;

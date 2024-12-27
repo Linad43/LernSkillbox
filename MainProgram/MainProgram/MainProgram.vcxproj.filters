@@ -33,31 +33,61 @@
     <ClCompile Include="Main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul2\Ex\ex1.cpp">
+    <ClCompile Include="Modul2\Ex\mod2ex1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul2\Ex\ex2.cpp">
+    <ClCompile Include="Modul2\Ex\mod2ex2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul2\Ex\ex3.cpp">
+    <ClCompile Include="Modul2\Ex\mod2ex3.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul2\Ex\ex4.cpp">
+    <ClCompile Include="Modul2\Ex\mod2ex4.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul3\Ex\ex1.cpp">
+    <ClCompile Include="Modul3\Ex\mod3ex1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul3\Ex\ex2.cpp">
+    <ClCompile Include="Modul3\Ex\mod3ex2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul3\Ex\ex3.cpp">
+    <ClCompile Include="Modul3\Ex\mod3ex3.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul3\Ex\ex4.cpp">
+    <ClCompile Include="Modul3\Ex\mod3ex4.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Modul3\Modul3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul4\Modul4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul4\Ex\mod4ex1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul4\Ex\mod4ex2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul4\Ex\mod4ex3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul4\Ex\mod4ex4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul4\Ex\mod4ex5.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul4\Ex\mod4ex6.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul4\Ex\mod4ex7.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul4\Ex\mod4ex8.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul4\Ex\mod4ex9.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
@@ -72,6 +102,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Modul3\HeaderModul3.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Modul4\HeaderModul4.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

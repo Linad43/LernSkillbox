@@ -1,10 +1,11 @@
-﻿#include "..\HeaderModul3.h"
+﻿//#include "..\HeaderModul3.h"
+#include "..\..\HeaderMain.h"
 #define PART_DRIVER 0.25
 #define PART_FUEL 0.2
 #define PART_REPAIR 0.2
 #define PART_TAXES 0.2
 
-void ex1() {
+void mod3ex1() {
 	std::cout << "1. Симулятор маршрутки.\n";
 
 	std::string stoping[] = {

@@ -132,22 +132,33 @@
     <ClCompile Include="CoopFun\NOKandNOD.cpp" />
     <ClCompile Include="CoopFun\Random.cpp" />
     <ClCompile Include="CoopFun\RusText.cpp" />
-    <ClCompile Include="Modul2\Ex\ex1.cpp" />
-    <ClCompile Include="Modul2\Ex\ex2.cpp" />
-    <ClCompile Include="Modul2\Ex\ex3.cpp" />
-    <ClCompile Include="Modul2\Ex\ex4.cpp" />
+    <ClCompile Include="Modul2\Ex\mod2ex1.cpp" />
+    <ClCompile Include="Modul2\Ex\mod2ex2.cpp" />
+    <ClCompile Include="Modul2\Ex\mod2ex3.cpp" />
+    <ClCompile Include="Modul2\Ex\mod2ex4.cpp" />
     <ClCompile Include="Modul2\Modul2.cpp" />
-    <ClCompile Include="Modul3\Ex\ex1.cpp" />
-    <ClCompile Include="Modul3\Ex\ex2.cpp" />
-    <ClCompile Include="Modul3\Ex\ex3.cpp" />
-    <ClCompile Include="Modul3\Ex\ex4.cpp" />
+    <ClCompile Include="Modul3\Ex\mod3ex1.cpp" />
+    <ClCompile Include="Modul3\Ex\mod3ex2.cpp" />
+    <ClCompile Include="Modul3\Ex\mod3ex3.cpp" />
+    <ClCompile Include="Modul3\Ex\mod3ex4.cpp" />
     <ClCompile Include="Modul3\Modul3.cpp" />
+    <ClCompile Include="Modul4\Ex\mod4ex1.cpp" />
+    <ClCompile Include="Modul4\Ex\mod4ex2.cpp" />
+    <ClCompile Include="Modul4\Ex\mod4ex3.cpp" />
+    <ClCompile Include="Modul4\Ex\mod4ex4.cpp" />
+    <ClCompile Include="Modul4\Ex\mod4ex5.cpp" />
+    <ClCompile Include="Modul4\Ex\mod4ex6.cpp" />
+    <ClCompile Include="Modul4\Ex\mod4ex7.cpp" />
+    <ClCompile Include="Modul4\Ex\mod4ex8.cpp" />
+    <ClCompile Include="Modul4\Ex\mod4ex9.cpp" />
+    <ClCompile Include="Modul4\Modul4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CoopFun\HeaderCoopFun.h" />
     <ClInclude Include="HeaderMain.h" />
     <ClInclude Include="Modul2\HeaderModul2.h" />
     <ClInclude Include="Modul3\HeaderModul3.h" />
+    <ClInclude Include="Modul4\HeaderModul4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,4 +1,5 @@
 ﻿#include "HeaderModul3.h"
+
 void Modul3() {
 	int choise = 1;
 	while (choise > 0) {
@@ -16,28 +17,28 @@ void Modul3() {
 		{
 		case 1: {
 			system("cls");
-			ex1();
+			mod3ex1();
 			system("pause");
 			system("cls");
 			break;
 		};
 		case 2: {
 			system("cls");
-			ex2();
+			mod3ex2();
 			system("pause");
 			system("cls");
 			break;
 		};
 		case 3: {
 			system("cls");
-			ex3();
+			mod3ex3();
 			system("pause");
 			system("cls");
 			break;
 		};
 		case 4: {
 			system("cls");
-			ex4();
+			mod3ex4();
 			system("pause");
 			system("cls");
 			break;
