@@ -196,6 +196,11 @@
     <None Include="Modul2\Ex\ReadMe_mod2ex3.md" />
     <None Include="Modul2\Ex\ReadMe_mod2ex4.md" />
     <None Include="Modul2\ReadMe_modul2.md" />
+    <None Include="Modul3\Ex\ReadMe_mod3ex1.md" />
+    <None Include="Modul3\Ex\ReadMe_mod3ex2.md" />
+    <None Include="Modul3\Ex\ReadMe_mod3ex3.md" />
+    <None Include="Modul3\Ex\ReadMe_mod3ex4.md" />
+    <None Include="Modul3\ReadMe_modul3.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
