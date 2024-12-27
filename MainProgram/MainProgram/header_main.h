@@ -6,3 +6,4 @@ void modul3();
 void modul4();
 void modul5();
 void modul6();
+void modul7();

@@ -170,6 +170,15 @@
     <ClCompile Include="Modul6\Ex\mod6ex8.cpp" />
     <ClCompile Include="Modul6\Ex\mod6ex9.cpp" />
     <ClCompile Include="Modul6\modul6.cpp" />
+    <ClCompile Include="Modul7\Ex\mod7ex1.cpp" />
+    <ClCompile Include="Modul7\Ex\mod7ex2.cpp" />
+    <ClCompile Include="Modul7\Ex\mod7ex3.cpp" />
+    <ClCompile Include="Modul7\Ex\mod7ex4.cpp" />
+    <ClCompile Include="Modul7\Ex\mod7ex5.cpp" />
+    <ClCompile Include="Modul7\Ex\mod7ex6.cpp" />
+    <ClCompile Include="Modul7\Ex\mod7ex7.cpp" />
+    <ClCompile Include="Modul7\Ex\mod7ex8.cpp" />
+    <ClCompile Include="Modul7\modul7.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CoopFun\header_coop_fun.h" />
@@ -179,6 +188,7 @@
     <ClInclude Include="Modul4\header_modul4.h" />
     <ClInclude Include="Modul5\header_modul5.h" />
     <ClInclude Include="Modul6\header_modul6.h" />
+    <ClInclude Include="Modul7\header_modul7.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
