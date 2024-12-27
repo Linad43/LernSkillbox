@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Modul_1\Modul1.cpp">
+    <ClCompile Include="Modul2\Modul2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="CoopFun\CreateVar.cpp">
@@ -33,27 +33,45 @@
     <ClCompile Include="Main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul_1\Ex\Ex1.cpp">
+    <ClCompile Include="Modul2\Ex\ex1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul_1\Ex\Ex2.cpp">
+    <ClCompile Include="Modul2\Ex\ex2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul_1\Ex\Ex3.cpp">
+    <ClCompile Include="Modul2\Ex\ex3.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Modul_1\Ex\Ex4.cpp">
+    <ClCompile Include="Modul2\Ex\ex4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul3\Ex\ex1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul3\Ex\ex2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul3\Ex\ex3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul3\Ex\ex4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul3\Modul3.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Modul_1\HeaderModul1.h">
+    <ClInclude Include="Modul2\HeaderModul2.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="CoopFun\HeaderCoopFun.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="HeaderMain.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Modul3\HeaderModul3.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

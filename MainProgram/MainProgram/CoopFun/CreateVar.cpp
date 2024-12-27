@@ -1,4 +1,12 @@
 ﻿#include "HeaderCoopFun.h"
+/*
+Ввод целочисленной переменной
+	flag -> 
+		0 - число должно быть положительным
+		1 - число должно быть больше нуля
+	text ->
+		текст который будет выводится перед вводом переменной
+*/
 int createInt(int flag, const char* text) {
 	int var;
 	while (1)
@@ -24,6 +32,14 @@ int createInt(int flag, const char* text) {
 int createInt(int flag) {
 	return createInt(flag, "Введите значение ");
 }
+/*
+Ввод вещественной переменной
+	flag ->
+		0 - число должно быть положительным
+		1 - число должно быть больше нуля
+	text ->
+		текст который будет выводится перед вводом переменной
+*/
 float createFloat(int flag, const char* text) {
 	float var;
 	while (1)

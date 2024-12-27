@@ -1,4 +1,4 @@
-﻿#include "..\HeaderModul1.h"
+﻿#include "..\HeaderModul2.h"
 void ex3() {
 	std::cout << "3. Время, время!\n";
 	std::cout << "Эта програма рассчитает, сколько клиентов успеет обслужить кассир за смену.\n";

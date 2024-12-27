@@ -1,7 +1,6 @@
-﻿#include "HeaderModul1.h"
+﻿#include "HeaderModul2.h"
 
-void Modul1() {
-	rusText();
+void Modul2() {
 	int choise = 1;
 	while (choise > 0) {
 		std::cout << "2.5 Практическая работа\n";

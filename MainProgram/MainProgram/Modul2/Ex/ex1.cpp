@@ -1,4 +1,4 @@
-﻿#include "..\HeaderModul1.h"
+﻿#include "..\HeaderModul2.h"
 void ex1() {
 	//ex1
 	std::cout << "1. Улучшаем гонщика\n";

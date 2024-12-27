@@ -1,4 +1,4 @@
-﻿#include "..\HeaderModul1.h"
+﻿#include "..\HeaderModul2.h"
 void ex2() {
 	std::cout << "2. Калькулятор стоимости товара\n";
 	int cost, costProd, costTf;

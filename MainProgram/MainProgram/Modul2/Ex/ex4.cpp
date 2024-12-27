@@ -1,4 +1,4 @@
-﻿#include "..\HeaderModul1.h"
+﻿#include "..\HeaderModul2.h"
 void ex4() {
 	std::cout << "4. Непонятная квитанция\n";
 	std::cout << "Приветствуем вас в калькуляторе квартплаты\n";

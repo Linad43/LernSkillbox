@@ -132,16 +132,22 @@
     <ClCompile Include="CoopFun\NOKandNOD.cpp" />
     <ClCompile Include="CoopFun\Random.cpp" />
     <ClCompile Include="CoopFun\RusText.cpp" />
-    <ClCompile Include="Modul_1\Ex\Ex1.cpp" />
-    <ClCompile Include="Modul_1\Ex\Ex2.cpp" />
-    <ClCompile Include="Modul_1\Ex\Ex3.cpp" />
-    <ClCompile Include="Modul_1\Ex\Ex4.cpp" />
-    <ClCompile Include="Modul_1\Modul1.cpp" />
+    <ClCompile Include="Modul2\Ex\ex1.cpp" />
+    <ClCompile Include="Modul2\Ex\ex2.cpp" />
+    <ClCompile Include="Modul2\Ex\ex3.cpp" />
+    <ClCompile Include="Modul2\Ex\ex4.cpp" />
+    <ClCompile Include="Modul2\Modul2.cpp" />
+    <ClCompile Include="Modul3\Ex\ex1.cpp" />
+    <ClCompile Include="Modul3\Ex\ex2.cpp" />
+    <ClCompile Include="Modul3\Ex\ex3.cpp" />
+    <ClCompile Include="Modul3\Ex\ex4.cpp" />
+    <ClCompile Include="Modul3\Modul3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CoopFun\HeaderCoopFun.h" />
     <ClInclude Include="HeaderMain.h" />
-    <ClInclude Include="Modul_1\HeaderModul1.h" />
+    <ClInclude Include="Modul2\HeaderModul2.h" />
+    <ClInclude Include="Modul3\HeaderModul3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

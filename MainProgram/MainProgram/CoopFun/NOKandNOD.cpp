@@ -1,5 +1,7 @@
 ﻿#include "HeaderCoopFun.h"
-
+/*
+Расчет НОД
+*/
 int nod(int a, int b) {
 	a = abs(a);
 	b = abs(b);
@@ -9,6 +11,9 @@ int nod(int a, int b) {
 	}
 	return a + b;
 }
+/*
+Расчет НОК
+*/
 int nok(int a, int b) {
 	a = abs(a);
 	b = abs(b);

@@ -8,6 +8,7 @@ int main() {
 		std::cout << "Выберите модуль:\n";
 		std::cout << "1. Модуль 1(Нет д/з)\n";
 		std::cout << "2. Модуль 2\n";
+		std::cout << "3. Модуль 3\n";
 		std::cout << "\n0. Выход\n";
 
 		std::cin >> choise;
@@ -23,7 +24,13 @@ int main() {
 		};
 		case 2: {
 			system("cls");
-			Modul1();
+			Modul2();
+			system("cls");
+			break;
+		};
+		case 3: {
+			system("cls");
+			Modul3();
 			system("cls");
 			break;
 		};
