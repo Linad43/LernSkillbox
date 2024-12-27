@@ -1,14 +1,14 @@
-#include "HeaderMain.h"
+ï»¿#include "HeaderMain.h"
 
 int main() {
 	rusText();
 	int choise = 1;
 	while (choise > 0) {
-		std::cout << "Èçó÷åíèÿ Ñ++ íà SkillBox\n";
-		std::cout << "Âûáåðèòå ìîäóëü:\n";
-		std::cout << "1. Ìîäóëü 1(Íåò ä/ç)\n";
-		std::cout << "2. Ìîäóëü 2\n";
-		std::cout << "\n0. Âûõîä\n";
+		std::cout << "Ð˜Ð·ÑƒÑ‡ÐµÐ½Ð¸Ñ Ð¡++ Ð½Ð° SkillBox\n";
+		std::cout << "Ð’Ñ‹Ð±ÐµÑ€Ð¸Ñ‚Ðµ Ð¼Ð¾Ð´ÑƒÐ»ÑŒ:\n";
+		std::cout << "1. ÐœÐ¾Ð´ÑƒÐ»ÑŒ 1(ÐÐµÑ‚ Ð´/Ð·)\n";
+		std::cout << "2. ÐœÐ¾Ð´ÑƒÐ»ÑŒ 2\n";
+		std::cout << "\n0. Ð’Ñ‹Ñ…Ð¾Ð´\n";
 
 		std::cin >> choise;
 
@@ -16,7 +16,7 @@ int main() {
 		{
 		case 1: {
 			system("cls");
-			std::cout << "Íåò äîìàøíåãî çàäàíèÿ\n";
+			std::cout << "ÐÐµÑ‚ Ð´Ð¾Ð¼Ð°ÑˆÐ½ÐµÐ³Ð¾ Ð·Ð°Ð´Ð°Ð½Ð¸Ñ\n";
 			system("pause");
 			system("cls");
 			break;
