@@ -201,6 +201,23 @@
     <None Include="Modul3\Ex\ReadMe_mod3ex3.md" />
     <None Include="Modul3\Ex\ReadMe_mod3ex4.md" />
     <None Include="Modul3\ReadMe_modul3.md" />
+    <None Include="Modul4\Ex\ReadMe_mod4ex1.md" />
+    <None Include="Modul4\Ex\ReadMe_mod4ex2.md" />
+    <None Include="Modul4\Ex\ReadMe_mod4ex3.md" />
+    <None Include="Modul4\Ex\ReadMe_mod4ex4.md" />
+    <None Include="Modul4\Ex\ReadMe_mod4ex5.md" />
+    <None Include="Modul4\Ex\ReadMe_mod4ex6.md" />
+    <None Include="Modul4\Ex\ReadMe_mod4ex7.md" />
+    <None Include="Modul4\Ex\ReadMe_mod4ex8.md" />
+    <None Include="Modul4\Ex\ReadMe_mod4ex9.md" />
+    <None Include="Modul4\ReadMe_modul4.md" />
+    <None Include="Modul5\Ex\ReadMe_mod5ex2.md" />
+    <None Include="Modul5\Ex\ReadMe_mod5ex3.md" />
+    <None Include="Modul5\Ex\ReadMe_mod5ex4.md" />
+    <None Include="Modul5\Ex\ReadMe_mod5ex5.md" />
+    <None Include="Modul5\Ex\ReadMe_mod5ex6.md" />
+    <None Include="Modul5\Ex\ReadMe_mod5ex1.md" />
+    <None Include="Modul5\ReadMe_modul5.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
