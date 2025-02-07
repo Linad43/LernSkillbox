@@ -236,5 +236,14 @@
     <None Include="Modul6\Ex\ReadMe_mod6ex7.md" />
     <None Include="Modul6\Ex\ReadMe_mod6ex8.md" />
     <None Include="Modul6\Ex\ReadMe_mod6ex9.md" />
+    <None Include="Modul7\ReadMe_modul7.md" />
+    <None Include="Modul7\Ex\ReadMe_mod7ex1.md" />
+    <None Include="Modul7\Ex\ReadMe_mod7ex2.md" />
+    <None Include="Modul7\Ex\ReadMe_mod7ex3.md" />
+    <None Include="Modul7\Ex\ReadMe_mod7ex4.md" />
+    <None Include="Modul7\Ex\ReadMe_mod7ex5.md" />
+    <None Include="Modul7\Ex\ReadMe_mod7ex6.md" />
+    <None Include="Modul7\Ex\ReadMe_mod7ex7.md" />
+    <None Include="Modul7\Ex\ReadMe_mod7ex8.md" />
   </ItemGroup>
 </Project>
