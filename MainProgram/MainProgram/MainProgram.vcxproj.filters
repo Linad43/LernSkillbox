@@ -171,6 +171,18 @@
     <ClCompile Include="Modul7\Ex\mod7ex8.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Modul8\modul8.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul8\Ex\mod8ex1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul8\Ex\mod8ex2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul8\Ex\mod8ex3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Modul2\header_modul2.h">
@@ -195,6 +207,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Modul7\header_modul7.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Modul8\header_modul8.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
@@ -245,5 +260,12 @@
     <None Include="Modul7\Ex\ReadMe_mod7ex6.md" />
     <None Include="Modul7\Ex\ReadMe_mod7ex7.md" />
     <None Include="Modul7\Ex\ReadMe_mod7ex8.md" />
+    <None Include="Modul8\ReadMe_modul8.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex1.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex2.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex3.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex4.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex5.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex6.md" />
   </ItemGroup>
 </Project>

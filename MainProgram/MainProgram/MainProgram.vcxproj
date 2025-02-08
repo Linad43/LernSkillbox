@@ -179,6 +179,10 @@
     <ClCompile Include="Modul7\Ex\mod7ex7.cpp" />
     <ClCompile Include="Modul7\Ex\mod7ex8.cpp" />
     <ClCompile Include="Modul7\modul7.cpp" />
+    <ClCompile Include="Modul8\Ex\mod8ex1.cpp" />
+    <ClCompile Include="Modul8\Ex\mod8ex2.cpp" />
+    <ClCompile Include="Modul8\Ex\mod8ex3.cpp" />
+    <ClCompile Include="Modul8\modul8.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CoopFun\header_coop_fun.h" />
@@ -189,6 +193,7 @@
     <ClInclude Include="Modul5\header_modul5.h" />
     <ClInclude Include="Modul6\header_modul6.h" />
     <ClInclude Include="Modul7\header_modul7.h" />
+    <ClInclude Include="Modul8\header_modul8.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Modul2\Ex\ReadMe_mod2ex1.md" />
@@ -237,6 +242,13 @@
     <None Include="Modul7\Ex\ReadMe_mod7ex6.md" />
     <None Include="Modul7\Ex\ReadMe_mod7ex7.md" />
     <None Include="Modul7\ReadMe_modul7.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex1.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex2.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex3.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex4.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex5.md" />
+    <None Include="Modul8\Ex\ReadMe_mod8ex6.md" />
+    <None Include="Modul8\ReadMe_modul8.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
