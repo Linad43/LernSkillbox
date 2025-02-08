@@ -7,7 +7,7 @@
 	text ->
 		текст который будет выводится перед вводом переменной
 */
-int createInt(bool flag, const char* text) {
+int createInt(bool flag, char* text) {
 	int var = -1;
 	while (1)
 	{
@@ -29,6 +29,9 @@ int createInt(bool flag, const char* text) {
 	}
 	return var;
 }
+int createInt(bool flag, const char* text) {
+	return createInt(flag, (char*)text);
+}
 int createInt(bool flag) {
 	return createInt(flag, "Введите значение ");
 }
@@ -40,7 +43,7 @@ int createInt(bool flag) {
 	text ->
 		текст который будет выводится перед вводом переменной
 */
-float createFloat(bool flag, const char* text) {
+float createFloat(bool flag, char* text) {
 	float var = -1;
 	while (1)
 	{
@@ -61,6 +64,9 @@ float createFloat(bool flag, const char* text) {
 		break;
 	}
 	return var;
+}
+float createFloat(bool flag, const char* text) {
+	return createFloat(flag, (char*)text);
 }
 float createFloat(bool flag) {
 	return createFloat(flag, "Введите значение ");

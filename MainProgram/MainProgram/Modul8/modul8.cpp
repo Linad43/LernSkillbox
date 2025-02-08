@@ -37,7 +37,7 @@ void modul8() {
 			system("pause");
 			system("cls");
 			break;
-		};/*
+		};
 		case 4: {
 			system("cls");
 			mod8ex4();
@@ -58,7 +58,7 @@ void modul8() {
 			system("pause");
 			system("cls");
 			break;
-		};*/
+		};
 		default:
 			choise = 0;
 		}
