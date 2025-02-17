@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -186,6 +186,12 @@
     <ClCompile Include="Modul8\Ex\mod8ex4.cpp" />
     <ClCompile Include="Modul8\Ex\mod8ex5.cpp" />
     <ClCompile Include="Modul8\modul8.cpp" />
+    <ClCompile Include="Modul9\Ex\mod9ex1.cpp" />
+    <ClCompile Include="Modul9\Ex\mod9ex2.cpp" />
+    <ClCompile Include="Modul9\Ex\mod9ex3.cpp" />
+    <ClCompile Include="Modul9\Ex\mod9ex4.cpp" />
+    <ClCompile Include="Modul9\Ex\mod9ex5.cpp" />
+    <ClCompile Include="Modul9\modul9.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CoopFun\header_coop_fun.h" />
@@ -197,6 +203,7 @@
     <ClInclude Include="Modul6\header_modul6.h" />
     <ClInclude Include="Modul7\header_modul7.h" />
     <ClInclude Include="Modul8\header_modul8.h" />
+    <ClInclude Include="Modul9\header_modul9.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Modul2\Ex\ReadMe_mod2ex1.md" />
@@ -252,6 +259,12 @@
     <None Include="Modul8\Ex\ReadMe_mod8ex5.md" />
     <None Include="Modul8\Ex\ReadMe_mod8ex6.md" />
     <None Include="Modul8\ReadMe_modul8.md" />
+    <None Include="Modul9\Ex\ReadMe_mod9ex1.md" />
+    <None Include="Modul9\Ex\ReadMe_mod9ex2.md" />
+    <None Include="Modul9\Ex\ReadMe_mod9ex3.md" />
+    <None Include="Modul9\Ex\ReadMe_mod9ex4.md" />
+    <None Include="Modul9\Ex\ReadMe_mod9ex5.md" />
+    <None Include="Modul9\ReadMe_modul9.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
