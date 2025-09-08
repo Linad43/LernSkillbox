@@ -134,6 +134,10 @@
     <ClCompile Include="CoopFun\random.cpp" />
     <ClCompile Include="CoopFun\rusText.cpp" />
     <ClCompile Include="Modul10\modul10.cpp" />
+    <ClCompile Include="Modul11\Ex\mod11ex1.cpp" />
+    <ClCompile Include="Modul11\Ex\mod11ex2.cpp" />
+    <ClCompile Include="Modul11\Ex\mod11ex3.cpp" />
+    <ClCompile Include="Modul11\modul11.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex1.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex2.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex3.cpp" />
@@ -198,6 +202,7 @@
     <ClInclude Include="CoopFun\header_coop_fun.h" />
     <ClInclude Include="header_main.h" />
     <ClInclude Include="Modul10\header_modul10.h" />
+    <ClInclude Include="Modul11\header_modul11.h" />
     <ClInclude Include="Modul2\header_modul2.h" />
     <ClInclude Include="Modul3\header_modul3.h" />
     <ClInclude Include="Modul4\header_modul4.h" />
@@ -209,6 +214,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Modul10\ReadMe_modul10.md" />
+    <None Include="Modul11\Ex\ReadMe_mod11ex1.md" />
+    <None Include="Modul11\Ex\ReadMe_mod11ex2.md" />
+    <None Include="Modul11\Ex\ReadMe_mod11ex3.md" />
+    <None Include="Modul11\ReadMe_modul11.md" />
     <None Include="Modul2\Ex\ReadMe_mod2ex1.md" />
     <None Include="Modul2\Ex\ReadMe_mod2ex2.md" />
     <None Include="Modul2\Ex\ReadMe_mod2ex3.md" />
