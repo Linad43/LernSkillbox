@@ -225,6 +225,39 @@
     <ClCompile Include="Modul11\Ex\mod11ex3.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Modul12\Ex\mod12ex1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul12\Ex\mod12ex2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul12\Ex\mod12ex3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul12\Ex\mod12ex4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul12\modul12.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul13\Ex\mod13ex1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul13\Ex\mod13ex2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul13\Ex\mod13ex3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul13\modul13.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CoopFun\split.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CoopFun\vectorOperation.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Modul2\header_modul2.h">
@@ -261,6 +294,12 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Modul11\header_modul11.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Modul12\header_modul12.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Modul13\header_modul13.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
@@ -329,5 +368,14 @@
     <None Include="Modul11\Ex\ReadMe_mod11ex1.md" />
     <None Include="Modul11\Ex\ReadMe_mod11ex2.md" />
     <None Include="Modul11\Ex\ReadMe_mod11ex3.md" />
+    <None Include="Modul12\Ex\ReadMe_mod12ex1.md" />
+    <None Include="Modul12\Ex\ReadMe_mod12ex2.md" />
+    <None Include="Modul12\Ex\ReadMe_mod12ex3.md" />
+    <None Include="Modul12\Ex\ReadMe_mod12ex4.md" />
+    <None Include="Modul12\ReadMe_modul12.md" />
+    <None Include="Modul13\ReadMe_modul13.md" />
+    <None Include="Modul13\Ex\ReadMe_mod13ex1.md" />
+    <None Include="Modul13\Ex\ReadMe_mod13ex2.md" />
+    <None Include="Modul13\Ex\ReadMe_mod13ex3.md" />
   </ItemGroup>
 </Project>

@@ -6,6 +6,7 @@
 #include <string>
 #include <iostream>
 #include <windows.h>
+#include <vector>
 
 int random(int min, int max);
 float random(float min, float max);
@@ -17,3 +18,9 @@ int createInt(bool flag);
 float createFloat(bool flag, const char* text);
 float createFloat(bool flag);
 int fibonacci(int num);
+std::vector<std::string> splitString(const std::string& str, const std::string& del);
+void printVector(const std::vector<int>& numbers);
+void printVector(const std::vector<float>& numbers);
+void printVector(const std::vector<std::string>& numbers);
+std::vector<float> vectorStrToFloat(const std::vector<std::string>& vectorString);
+std::vector<int> vectorStrToInt(const std::vector<std::string>& vectorString);

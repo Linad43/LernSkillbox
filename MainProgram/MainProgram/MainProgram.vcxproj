@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="CoopFun\createVar.cpp" />
     <ClCompile Include="CoopFun\fibonacci.cpp" />
+    <ClCompile Include="CoopFun\vectorOperation.cpp" />
+    <ClCompile Include="CoopFun\split.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="CoopFun\nok&amp;nod.cpp" />
     <ClCompile Include="CoopFun\random.cpp" />
@@ -143,6 +145,10 @@
     <ClCompile Include="Modul12\Ex\mod12ex3.cpp" />
     <ClCompile Include="Modul12\Ex\mod12ex4.cpp" />
     <ClCompile Include="Modul12\modul12.cpp" />
+    <ClCompile Include="Modul13\Ex\mod13ex1.cpp" />
+    <ClCompile Include="Modul13\Ex\mod13ex2.cpp" />
+    <ClCompile Include="Modul13\Ex\mod13ex3.cpp" />
+    <ClCompile Include="Modul13\modul13.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex1.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex2.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex3.cpp" />
@@ -209,6 +215,7 @@
     <ClInclude Include="Modul10\header_modul10.h" />
     <ClInclude Include="Modul11\header_modul11.h" />
     <ClInclude Include="Modul12\header_modul12.h" />
+    <ClInclude Include="Modul13\header_modul13.h" />
     <ClInclude Include="Modul2\header_modul2.h" />
     <ClInclude Include="Modul3\header_modul3.h" />
     <ClInclude Include="Modul4\header_modul4.h" />
@@ -229,6 +236,10 @@
     <None Include="Modul12\Ex\ReadMe_mod12ex3.md" />
     <None Include="Modul12\Ex\ReadMe_mod12ex4.md" />
     <None Include="Modul12\ReadMe_modul12.md" />
+    <None Include="Modul13\Ex\ReadMe_mod13ex1.md" />
+    <None Include="Modul13\Ex\ReadMe_mod13ex2.md" />
+    <None Include="Modul13\Ex\ReadMe_mod13ex3.md" />
+    <None Include="Modul13\ReadMe_modul13.md" />
     <None Include="Modul2\Ex\ReadMe_mod2ex1.md" />
     <None Include="Modul2\Ex\ReadMe_mod2ex2.md" />
     <None Include="Modul2\Ex\ReadMe_mod2ex3.md" />
