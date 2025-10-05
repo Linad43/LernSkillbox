@@ -149,6 +149,15 @@
     <ClCompile Include="Modul13\Ex\mod13ex2.cpp" />
     <ClCompile Include="Modul13\Ex\mod13ex3.cpp" />
     <ClCompile Include="Modul13\modul13.cpp" />
+    <ClCompile Include="Modul14\Ex\mod14ex1.cpp" />
+    <ClCompile Include="Modul14\Ex\mod14ex2.cpp" />
+    <ClCompile Include="Modul14\Ex\mod14ex3.cpp" />
+    <ClCompile Include="Modul14\Ex\mod14ex4.cpp" />
+    <ClCompile Include="Modul14\Ex\mod14ex5.cpp" />
+    <ClCompile Include="Modul14\Ex\mod14ex6.cpp" />
+    <ClCompile Include="Modul14\Ex\mod14ex7.cpp" />
+    <ClCompile Include="Modul14\Ex\mod14ex8.cpp" />
+    <ClCompile Include="Modul14\modul14.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex1.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex2.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex3.cpp" />
@@ -216,6 +225,7 @@
     <ClInclude Include="Modul11\header_modul11.h" />
     <ClInclude Include="Modul12\header_modul12.h" />
     <ClInclude Include="Modul13\header_modul13.h" />
+    <ClInclude Include="Modul14\header_modul14.h" />
     <ClInclude Include="Modul2\header_modul2.h" />
     <ClInclude Include="Modul3\header_modul3.h" />
     <ClInclude Include="Modul4\header_modul4.h" />
