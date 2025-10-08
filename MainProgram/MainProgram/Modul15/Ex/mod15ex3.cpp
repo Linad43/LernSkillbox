@@ -6,7 +6,7 @@ void toLeftSort(int arr[4]) {
 			int buf = arr[i];
 			arr[i] = arr[i + 1];
 			arr[i + 1] = buf;
-		}
+		} else break;
 	}
 }
 void toRightSort(int arr[]) {
@@ -15,7 +15,7 @@ void toRightSort(int arr[]) {
 			int buf = arr[i];
 			arr[i] = arr[i - 1];
 			arr[i - 1] = buf;
-		}
+		} else break;
 	}
 }
 
