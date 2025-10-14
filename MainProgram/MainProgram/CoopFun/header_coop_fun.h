@@ -7,6 +7,7 @@
 #include <iostream>
 #include <windows.h>
 #include <vector>
+#include<chrono>
 
 int random(int min, int max);
 float random(float min, float max);
