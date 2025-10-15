@@ -7,7 +7,7 @@
 #include <iostream>
 #include <windows.h>
 #include <vector>
-#include<chrono>
+#include <chrono>
 
 int random(int min, int max);
 float random(float min, float max);
@@ -25,3 +25,4 @@ void printVector(const std::vector<float>& numbers);
 void printVector(const std::vector<std::string>& numbers);
 std::vector<float> vectorStrToFloat(const std::vector<std::string>& vectorString);
 std::vector<int> vectorStrToInt(const std::vector<std::string>& vectorString);
+void swap(int* a, int* b);
