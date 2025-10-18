@@ -26,3 +26,8 @@ void printVector(const std::vector<std::string>& numbers);
 std::vector<float> vectorStrToFloat(const std::vector<std::string>& vectorString);
 std::vector<int> vectorStrToInt(const std::vector<std::string>& vectorString);
 void swap(int* a, int* b);
+int factorial(int a);
+int selectOrderNotRepit(int n, int m);
+int selectOrderRepit(int n, int m);
+int selectNotOrderNotRepit(int n, int m);
+int selectNotOrderRepit(int n, int m);

@@ -128,7 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CoopFun\createVar.cpp" />
+    <ClCompile Include="CoopFun\combinatorics.cpp" />
     <ClCompile Include="CoopFun\fibonacci.cpp" />
+    <ClCompile Include="CoopFun\indicators.cpp" />
     <ClCompile Include="CoopFun\swap.cpp" />
     <ClCompile Include="CoopFun\vectorOperation.cpp" />
     <ClCompile Include="CoopFun\split.cpp" />
@@ -174,6 +176,10 @@
     <ClCompile Include="Modul17\Ex\mod17ex2.cpp" />
     <ClCompile Include="Modul17\Ex\mod17ex3.cpp" />
     <ClCompile Include="Modul17\modul17.cpp" />
+    <ClCompile Include="Modul18\Ex\mod18ex1.cpp" />
+    <ClCompile Include="Modul18\Ex\mod18ex2.cpp" />
+    <ClCompile Include="Modul18\Ex\mod18ex3.cpp" />
+    <ClCompile Include="Modul18\modul18.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex1.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex2.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex3.cpp" />
@@ -245,6 +251,7 @@
     <ClInclude Include="Modul15\header_modul15.h" />
     <ClInclude Include="Modul16\header_modul16.h" />
     <ClInclude Include="Modul17\header_modul17.h" />
+    <ClInclude Include="Modul18\header_modul18.h" />
     <ClInclude Include="Modul2\header_modul2.h" />
     <ClInclude Include="Modul3\header_modul3.h" />
     <ClInclude Include="Modul4\header_modul4.h" />
