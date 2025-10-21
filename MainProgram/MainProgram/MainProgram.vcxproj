@@ -131,6 +131,7 @@
     <ClCompile Include="CoopFun\combinatorics.cpp" />
     <ClCompile Include="CoopFun\fibonacci.cpp" />
     <ClCompile Include="CoopFun\indicators.cpp" />
+    <ClCompile Include="CoopFun\stringOperation.cpp" />
     <ClCompile Include="CoopFun\swap.cpp" />
     <ClCompile Include="CoopFun\vectorOperation.cpp" />
     <ClCompile Include="CoopFun\split.cpp" />
@@ -180,6 +181,12 @@
     <ClCompile Include="Modul18\Ex\mod18ex2.cpp" />
     <ClCompile Include="Modul18\Ex\mod18ex3.cpp" />
     <ClCompile Include="Modul18\modul18.cpp" />
+    <ClCompile Include="Modul19\Ex\mod19ex1.cpp" />
+    <ClCompile Include="Modul19\Ex\mod19ex2.cpp" />
+    <ClCompile Include="Modul19\Ex\mod19ex3.cpp" />
+    <ClCompile Include="Modul19\Ex\mod19ex4.cpp" />
+    <ClCompile Include="Modul19\Ex\mod19ex5.cpp" />
+    <ClCompile Include="Modul19\modul19.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex1.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex2.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex3.cpp" />
@@ -252,6 +259,7 @@
     <ClInclude Include="Modul16\header_modul16.h" />
     <ClInclude Include="Modul17\header_modul17.h" />
     <ClInclude Include="Modul18\header_modul18.h" />
+    <ClInclude Include="Modul19\header_modul19.h" />
     <ClInclude Include="Modul2\header_modul2.h" />
     <ClInclude Include="Modul3\header_modul3.h" />
     <ClInclude Include="Modul4\header_modul4.h" />
@@ -335,6 +343,39 @@
     <None Include="Modul9\Ex\ReadMe_mod9ex4.md" />
     <None Include="Modul9\Ex\ReadMe_mod9ex5.md" />
     <None Include="Modul9\ReadMe_modul9.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Modul19\answer0.txt" />
+    <Text Include="Modul19\answer1.txt" />
+    <Text Include="Modul19\answer10.txt" />
+    <Text Include="Modul19\answer11.txt" />
+    <Text Include="Modul19\answer12.txt" />
+    <Text Include="Modul19\answer2.txt" />
+    <Text Include="Modul19\answer3.txt" />
+    <Text Include="Modul19\answer4.txt" />
+    <Text Include="Modul19\answer5.txt" />
+    <Text Include="Modul19\answer6.txt" />
+    <Text Include="Modul19\answer7.txt" />
+    <Text Include="Modul19\answer8.txt" />
+    <Text Include="Modul19\answer9.txt" />
+    <Text Include="Modul19\game0.txt" />
+    <Text Include="Modul19\game1.txt" />
+    <Text Include="Modul19\game10.txt" />
+    <Text Include="Modul19\game11.txt" />
+    <Text Include="Modul19\game12.txt" />
+    <Text Include="Modul19\game2.txt" />
+    <Text Include="Modul19\game3.txt" />
+    <Text Include="Modul19\game4.txt" />
+    <Text Include="Modul19\game5.txt" />
+    <Text Include="Modul19\game6.txt" />
+    <Text Include="Modul19\game7.txt" />
+    <Text Include="Modul19\game8.txt" />
+    <Text Include="Modul19\game9.txt" />
+    <Text Include="Modul19\statement.txt" />
+    <Text Include="Modul19\words.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Modul19\test.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

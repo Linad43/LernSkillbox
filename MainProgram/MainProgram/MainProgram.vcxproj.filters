@@ -351,6 +351,27 @@
     <ClCompile Include="CoopFun\combinatorics.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Modul19\Ex\mod19ex1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul19\Ex\mod19ex2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul19\Ex\mod19ex3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul19\Ex\mod19ex4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul19\Ex\mod19ex5.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul19\modul19.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CoopFun\stringOperation.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Modul2\header_modul2.h">
@@ -408,6 +429,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Modul18\header_modul18.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Modul19\header_modul19.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
@@ -485,5 +509,40 @@
     <None Include="Modul13\Ex\ReadMe_mod13ex1.md" />
     <None Include="Modul13\Ex\ReadMe_mod13ex2.md" />
     <None Include="Modul13\Ex\ReadMe_mod13ex3.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Modul19\answer0.txt" />
+    <Text Include="Modul19\answer1.txt" />
+    <Text Include="Modul19\answer2.txt" />
+    <Text Include="Modul19\answer3.txt" />
+    <Text Include="Modul19\answer4.txt" />
+    <Text Include="Modul19\answer5.txt" />
+    <Text Include="Modul19\answer6.txt" />
+    <Text Include="Modul19\answer7.txt" />
+    <Text Include="Modul19\answer8.txt" />
+    <Text Include="Modul19\answer9.txt" />
+    <Text Include="Modul19\answer10.txt" />
+    <Text Include="Modul19\answer11.txt" />
+    <Text Include="Modul19\answer12.txt" />
+    <Text Include="Modul19\game0.txt" />
+    <Text Include="Modul19\game1.txt" />
+    <Text Include="Modul19\game2.txt" />
+    <Text Include="Modul19\game3.txt" />
+    <Text Include="Modul19\game4.txt" />
+    <Text Include="Modul19\game5.txt" />
+    <Text Include="Modul19\game6.txt" />
+    <Text Include="Modul19\game7.txt" />
+    <Text Include="Modul19\game8.txt" />
+    <Text Include="Modul19\game9.txt" />
+    <Text Include="Modul19\game10.txt" />
+    <Text Include="Modul19\game11.txt" />
+    <Text Include="Modul19\game12.txt" />
+    <Text Include="Modul19\statement.txt" />
+    <Text Include="Modul19\words.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Modul19\test.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
   </ItemGroup>
 </Project>

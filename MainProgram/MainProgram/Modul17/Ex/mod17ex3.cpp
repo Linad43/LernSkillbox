@@ -1,12 +1,12 @@
 ﻿#include "..\header_modul17.h"
 
-int lenghtStr(const char* str) {
-	int i = 0;
-	while (*(str + i) != '\0') {
-		i++;
-	}
-	return i;
-}
+//int lenghtStr(const char* str) {
+//	int i = 0;
+//	while (*(str + i) != '\0') {
+//		i++;
+//	}
+//	return i;
+//}
 
 bool subStr(const char* mainStr, const char* subStr) {
 	int lenghtMainStr = lenghtStr(mainStr);

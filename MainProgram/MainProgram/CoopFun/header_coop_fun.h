@@ -8,6 +8,7 @@
 #include <windows.h>
 #include <vector>
 #include <chrono>
+#include <fstream>
 
 int random(int min, int max);
 float random(float min, float max);
@@ -30,4 +31,5 @@ int factorial(int a);
 int selectOrderNotRepit(int n, int m);
 int selectOrderRepit(int n, int m);
 int selectNotOrderNotRepit(int n, int m);
-int selectNotOrderRepit(int n, int m);
+int selectNotOrderRepit(int n, int m); 
+int lenghtStr(const char* str);
