@@ -24,6 +24,7 @@ int main() {
 		std::cout << "16. Модуль 16\n";
 		std::cout << "17. Модуль 17\n";
 		std::cout << "18. Модуль 18\n";
+		std::cout << "19. Модуль 19\n";
 		std::cout << "\n0. Выход\n";
 
 		std::cin >> choise;
@@ -136,6 +137,12 @@ int main() {
 		case 18: {
 			system("cls");
 			modul18();
+			system("cls");
+			break;
+		};
+		case 19: {
+			system("cls");
+			modul19();
 			system("cls");
 			break;
 		};
