@@ -4,7 +4,7 @@ void mod19ex4() {
 	std::cout << "4. Разработать детектор PNG-файла.\n";
 	std::cout << "Enter file directory: ";
 	std::string nameFile = ".\\Modul19\\test.png";
-	std::cin >> nameFile;
+	//std::cin >> nameFile;
 	std::ifstream file(nameFile, std::ios::binary);
 
 	if (file.is_open()) {
@@ -17,25 +17,25 @@ void mod19ex4() {
 			switch (index)
 			{
 			case 0: {
-				if (!buf == -119) {
+				if (!(buf == -119)) {
 					flag = false;
 				}
 				break;
 			}
 			case 1: {
-				if (!buf == 'P') {
+				if (!(buf == 'P')) {
 					flag = false;
 				}
 				break;
 			}
 			case 2: {
-				if (!buf == 'N') {
+				if (!(buf == 'N')) {
 					flag = false;
 				}
 				break;
 			}
 			case 3: {
-				if (!buf == 'G') {
+				if (!(buf == 'G')) {
 					flag = false;
 				}
 				break;
@@ -46,6 +46,7 @@ void mod19ex4() {
 			if (!flag) {
 				break;
 			}
+			index++;
 		}
 		if (flag) {
 			std::cout << "File is PNG\n";

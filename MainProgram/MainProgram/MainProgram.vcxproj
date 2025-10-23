@@ -187,6 +187,11 @@
     <ClCompile Include="Modul19\Ex\mod19ex4.cpp" />
     <ClCompile Include="Modul19\Ex\mod19ex5.cpp" />
     <ClCompile Include="Modul19\modul19.cpp" />
+    <ClCompile Include="Modul20\Ex\mod20ex1.cpp" />
+    <ClCompile Include="Modul20\Ex\mod20ex2.cpp" />
+    <ClCompile Include="Modul20\Ex\mod20ex3.cpp" />
+    <ClCompile Include="Modul20\Ex\mod20ex4.cpp" />
+    <ClCompile Include="Modul20\modul20.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex1.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex2.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex3.cpp" />
@@ -260,6 +265,7 @@
     <ClInclude Include="Modul17\header_modul17.h" />
     <ClInclude Include="Modul18\header_modul18.h" />
     <ClInclude Include="Modul19\header_modul19.h" />
+    <ClInclude Include="Modul20\header_modul20.h" />
     <ClInclude Include="Modul2\header_modul2.h" />
     <ClInclude Include="Modul3\header_modul3.h" />
     <ClInclude Include="Modul4\header_modul4.h" />
@@ -373,6 +379,10 @@
     <Text Include="Modul19\game9.txt" />
     <Text Include="Modul19\statement.txt" />
     <Text Include="Modul19\words.txt" />
+    <Text Include="Modul20\basket.txt" />
+    <Text Include="Modul20\pic.txt" />
+    <Text Include="Modul20\river.txt" />
+    <Text Include="Modul20\statement.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Modul19\test.png" />
