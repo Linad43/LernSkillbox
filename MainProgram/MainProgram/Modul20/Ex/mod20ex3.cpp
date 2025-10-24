@@ -15,9 +15,7 @@ void removeFishInRiver(int indexBeg, int indexEnd) {
 	char buf;
 	while (!file.eof()) {
 		file.read(&buf, sizeof(buf));
-		// не могу понять почему после нахождения некоторой рыбы
-		// в конце файла появляется дополнительный символ 'p'
-		if (index<indexBeg || index>indexEnd) {
+		if (!file.eof() && (index<indexBeg || index>indexEnd)) {
 			bufFile.write(&buf, sizeof(buf));
 		}
 		index++;

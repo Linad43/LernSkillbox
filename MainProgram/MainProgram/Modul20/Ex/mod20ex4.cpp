@@ -1,9 +1,6 @@
 ﻿#include "..\header_modul20.h"
-#define COUNT_TOTAL 1
+#define COUNT_TOTAL 1000
 
-//Не могу найти ошибку,
-//при чтении последний символ добавляется в самый конец файла
-//в mod20ex3 такая же ошибка не найду причины
 
 struct stateATM {
 	int o = 0;
@@ -73,37 +70,39 @@ void readFile() {
 	const char* nameFile = ".\\Modul20\\ATP.bin";
 	std::ifstream file(nameFile, std::ios::binary);
 	char buf;
-	if (file.is_open()) {
+	if (file.is_open() && !file.eof()) {
 		while (!file.eof()) {
 			file.read(&buf, sizeof(buf));
-			switch (buf)
-			{
-			case 'o': {
-				nowStateATM.o++;
-				break;
-			}
-			case 't': {
-				nowStateATM.t++;
-				break;
-			}
-			case 'f': {
-				nowStateATM.f++;
-				break;
-			}
-			case 'O': {
-				nowStateATM.O++;
-				break;
-			}
-			case 'T': {
-				nowStateATM.T++;
-				break;
-			}
-			case 'F': {
-				nowStateATM.F++;
-				break;
-			}
-			default:
-				break;
+			if (!file.eof()) {
+				switch (buf)
+				{
+				case 'o': {
+					nowStateATM.o++;
+					break;
+				}
+				case 't': {
+					nowStateATM.t++;
+					break;
+				}
+				case 'f': {
+					nowStateATM.f++;
+					break;
+				}
+				case 'O': {
+					nowStateATM.O++;
+					break;
+				}
+				case 'T': {
+					nowStateATM.T++;
+					break;
+				}
+				case 'F': {
+					nowStateATM.F++;
+					break;
+				}
+				default:
+					break;
+				}
 			}
 		}
 	}
