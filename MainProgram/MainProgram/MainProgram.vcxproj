@@ -130,6 +130,7 @@
     <ClCompile Include="CoopFun\createVar.cpp" />
     <ClCompile Include="CoopFun\combinatorics.cpp" />
     <ClCompile Include="CoopFun\fibonacci.cpp" />
+    <ClCompile Include="CoopFun\forStatement.cpp" />
     <ClCompile Include="CoopFun\indicators.cpp" />
     <ClCompile Include="CoopFun\stringOperation.cpp" />
     <ClCompile Include="CoopFun\swap.cpp" />
@@ -192,6 +193,11 @@
     <ClCompile Include="Modul20\Ex\mod20ex3.cpp" />
     <ClCompile Include="Modul20\Ex\mod20ex4.cpp" />
     <ClCompile Include="Modul20\modul20.cpp" />
+    <ClCompile Include="Modul21\Ex\mod21ex1.cpp" />
+    <ClCompile Include="Modul21\Ex\mod21ex2.cpp" />
+    <ClCompile Include="Modul21\Ex\mod21ex3.cpp" />
+    <ClCompile Include="Modul21\Ex\mod21ex4.cpp" />
+    <ClCompile Include="Modul21\modul21.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex1.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex2.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex3.cpp" />
@@ -266,6 +272,7 @@
     <ClInclude Include="Modul18\header_modul18.h" />
     <ClInclude Include="Modul19\header_modul19.h" />
     <ClInclude Include="Modul20\header_modul20.h" />
+    <ClInclude Include="Modul21\header_modul21.h" />
     <ClInclude Include="Modul2\header_modul2.h" />
     <ClInclude Include="Modul3\header_modul3.h" />
     <ClInclude Include="Modul4\header_modul4.h" />
@@ -383,6 +390,7 @@
     <Text Include="Modul20\pic.txt" />
     <Text Include="Modul20\river.txt" />
     <Text Include="Modul20\statement.txt" />
+    <Text Include="Modul21\statement.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Modul19\test.png" />

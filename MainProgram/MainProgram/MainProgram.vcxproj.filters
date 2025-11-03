@@ -387,6 +387,24 @@
     <ClCompile Include="Modul20\Ex\mod20ex4.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Modul21\Ex\mod21ex1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul21\Ex\mod21ex2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul21\Ex\mod21ex3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul21\Ex\mod21ex4.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul21\modul21.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CoopFun\forStatement.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Modul2\header_modul2.h">
@@ -450,6 +468,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Modul20\header_modul20.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Modul21\header_modul21.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
@@ -561,6 +582,7 @@
     <Text Include="Modul20\river.txt" />
     <Text Include="Modul20\basket.txt" />
     <Text Include="Modul20\pic.txt" />
+    <Text Include="Modul21\statement.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Modul19\test.png">

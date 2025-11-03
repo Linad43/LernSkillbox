@@ -1,17 +1,73 @@
-﻿#include "..\header_modul20.h"
-//
+﻿#include "..\header_modul21.h"
+
+struct stateElement {
+	std::string firstName;
+	std::string lastName;
+	int pay = 0;
+	std::string date;
+
+	void toString() {
+		std::cout << firstName << " "
+			<< lastName << " "
+			<< date << " "
+			<< pay << "\n";
+	}
+	char* toStringStr() {
+		char result[50];
+		sprintf(result, "%s %s %d %s\n", firstName, lastName, pay, date);
+		return result;
+	}
+};
+
+std::vector <stateElement> listState;
+
+void readState() {
+	std::ifstream file(".\\Modul21\\statement.txt");
+	std::string bufString;
+	int bufInt;
+	while (!file.eof()) {
+		stateElement bufElement;
+		file >> bufString;
+		if (!file.eof()) {
+			bufElement.firstName = bufString;
+			file >> bufString;
+			bufElement.lastName = bufString;
+			file >> bufInt;
+			bufElement.pay = bufInt;
+			file >> bufString;
+			bufElement.date = bufString;
+			bufElement.toString();
+		}
+	}
+	file.close();
+	for (int i = 0; i < listState.size(); listState[i++].toString());
+}
+
+void writeState() {
+	std::ofstream file(".\\Modul21\\statement.txt", std::ios::app);
+	for (int i = 0; i < listState.size(); i++) {
+		file << listState[i].firstName << " ";
+		file << listState[i].lastName << " ";
+		file << listState[i].pay << " ";
+		file << listState[i].date << "\n";
+	}
+	file.close();
+	listState.clear();
+}
+
+
 //int getCurrentYear() {
 //	std::time_t t = std::time(nullptr);
 //	std::tm* const pTInfo = std::localtime(&t);
 //	return 1900 + pTInfo->tm_year;
 //}
 //
-struct stateElement {
-	std::string firstName;
-	std::string lastName;
-	int pay=0;
-	std::string date;
-};
+//struct stateElement {
+//	std::string firstName;
+//	std::string lastName;
+//	int pay = 0;
+//	std::string date;
+//};
 //
 //bool lackNum(std::string text) {
 //	for (int i = 0; i < text.size(); i++) {
@@ -25,7 +81,7 @@ struct stateElement {
 //
 //std::string checkName(std::string input) {
 //	std::string result = "";
-//	if (input.size() > 2 && lackNum(input)){
+//	if (input.size() > 2 && lackNum(input)) {
 //		result = input;
 //	}
 //	return result;
@@ -35,8 +91,8 @@ struct stateElement {
 //	std::string result = "";
 //	if (input.size() == 10) {
 //		std::vector <std::string> date = splitString(input, ".");
-//		if ((stoi(date[0]) > 0 && stoi(date[0]) < 31) && 
-//			(stoi(date[1]) > 0 && stoi(date[1])<=12) &&
+//		if ((stoi(date[0]) > 0 && stoi(date[0]) < 31) &&
+//			(stoi(date[1]) > 0 && stoi(date[1]) <= 12) &&
 //			(stoi(date[2]) > 1900 && stoi(date[2]) <= getCurrentYear())) {
 //			result = input;
 //		}
@@ -64,8 +120,7 @@ struct stateElement {
 //	return result;
 //}
 
-void mod20ex1() {
-	std::cout << "1. Запись в ведомость учёта.\n";
+void addState() {
 	stateElement element;
 	std::string buf;
 	do {
@@ -104,7 +159,7 @@ void mod20ex1() {
 			break;
 		}
 	} while (true);
-	do{
+	do {
 		std::cout << "Input sum of payment: ";
 		std::cin >> buf;
 		element.pay = checkPayment(buf);
@@ -116,12 +171,30 @@ void mod20ex1() {
 			break;
 		}
 	} while (true);
-	std::string nameFile = ".\\Modul20\\statement.txt";
-	std::ofstream file(nameFile, std::ios::app);
-	//file.open(nameFile, std::ios::app);
-	file << element.firstName << " ";
-	file << element.lastName << " ";
-	file << element.pay << " ";
-	file << element.date << "\n";
-	file.close();
+	listState.push_back(element);
+}
+
+void mod21ex1() {
+	std::cout << "1. Ведомость учёта.\n";
+	listState.clear();
+	std::string choise;
+	bool flag = true;
+	do {
+		std::cout << "list - read statement\n";
+		std::cout << "add - add new string to file\n";
+		std::cout << "q - exit\n";
+		std::cin >> choise;
+		if (choise == "list") {
+			std::cout << std::endl;
+			readState();
+			std::cout << std::endl;
+		}
+		else if (choise == "add") {
+			addState();
+		}
+		else if (choise == "Q" || choise == "q") {
+			writeState();
+			flag = false;
+		}
+	} while (flag);
 }
