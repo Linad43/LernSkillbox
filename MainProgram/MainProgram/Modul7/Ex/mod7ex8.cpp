@@ -2,7 +2,7 @@
 
 void mod7ex8() {
 	std::cout << "8. Ёлочка*.\n";
-	int height, flag;
+	int height;
 	std::cout << "Введите высоту елочки: ";
 	std::cin >> height;
 

@@ -21,3 +21,4 @@ void modul18();
 void modul19();
 void modul20();
 void modul21();
+void modul22();

@@ -9,6 +9,7 @@
 #include <vector>
 #include <chrono>
 #include <fstream>
+#include <map>
 
 int random(int min, int max);
 float random(float min, float max);
@@ -39,3 +40,5 @@ bool lackNum(std::string text);
 std::string checkName(std::string input);
 std::string checkDate(std::string input);
 int checkPayment(std::string input);
+std::string strToLow(std::string input);
+std::string delSpace(std::string text);

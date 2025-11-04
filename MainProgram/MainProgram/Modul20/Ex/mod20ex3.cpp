@@ -1,10 +1,10 @@
 ﻿#include "..\header_modul20.h"
 
-void strToLow(std::string text) {
-	for (int i = 0; i < text.size(); i++) {
-		text[i] = tolower(text[i]);
-	}
-}
+//void strToLow(std::string text) {
+//	for (int i = 0; i < text.size(); i++) {
+//		text[i] = tolower(text[i]);
+//	}
+//}
 
 void removeFishInRiver(int indexBeg, int indexEnd) {
 	const char* bufNameFile = ".\\Modul20\\bufRiver.txt";
@@ -73,7 +73,7 @@ void mod20ex3() {
 		std::cout << "What kind of fish are you going to catch?\n";
 		std::string typeFish;
 		std::cin >> typeFish;
-		strToLow(typeFish);
+		typeFish = strToLow(typeFish);
 		int indexBeg = 0, indexEnd = 0;
 		findFish(typeFish, indexBeg, indexEnd);
 		if (indexEnd - indexBeg == typeFish.size() - 1) {
