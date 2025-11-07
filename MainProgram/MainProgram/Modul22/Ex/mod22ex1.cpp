@@ -1,7 +1,8 @@
 ﻿#include "..\header_modul22.h"
 
 
-std::map<std::string, std::string> manual;
+std::map<std::string, std::string> manualNumToName;
+std::map<std::string, std::string> manualNameToNum;
 
 struct numPhone {
 	int number[3];
@@ -53,7 +54,14 @@ bool addToManual(std::string inputText) {
 		return false;
 	}
 	else {
-		manual[number.toString()] = name;
+		manualNumToName[number.toString()] = name;
+		if (manualNameToNum.find(name) != manualNameToNum.end()) {
+			manualNameToNum[name] += " " + number.toString();
+		}
+		else
+		{
+			manualNameToNum[name] = number.toString();
+		}
 		return true;
 	}
 }
@@ -62,8 +70,8 @@ std::string getName(std::string inputNumPhone) {
 	std::string result;
 	numPhone number;
 	if (number.setNums(inputNumPhone)) {
-		if (manual.find(number.toString()) != manual.end()) {
-			result = manual.find(number.toString())->second;
+		if (manualNumToName.find(number.toString()) != manualNumToName.end()) {
+			result = manualNumToName.find(number.toString())->second;
 		}
 		else {
 			result = "Not found";
@@ -72,15 +80,24 @@ std::string getName(std::string inputNumPhone) {
 	return result;
 }
 
-std::vector <std::string> getNum(std::string inputName) {
-	std::vector <std::string> numbers;
-	for (std::map<std::string, std::string>::iterator it = manual.begin(); it != manual.end(); it++) {
-		if (it->second == inputName) {
-			numbers.push_back(it->first);
-		}
+std::string getNum(std::string inputName) {
+	std::string result;
+	if (manualNameToNum.find(inputName)!=manualNameToNum.end()) {
+		result = manualNameToNum[inputName];
 	}
-	return numbers;
+	else {
+		result = "Not found";
+	}
+
+	return result;
 }
+//std::vector <std::string> getNum(std::string inputName) {
+//	std::vector <std::string> numbers;
+//	if (manualNameToNum.find(inputName) != manualNameToNum.end()) {
+//		numbers = splitString(manualNameToNum.find(inputName)->second, " ");
+//	}
+//	return numbers;
+//}
 
 void mod22ex1() {
 	std::cout << "1. Телефонный справочник.\n";
@@ -108,10 +125,7 @@ void mod22ex1() {
 			break;
 		}
 		else {
-			auto numbers = getNum(input);
-			for (int i = 0; (!numbers.empty()) && i < numbers.size(); i++) {
-				std::cout << numbers[i] << std::endl;
-			}
+			std::cout << getNum(input) << std::endl;
 		}
 	} while (true);
 }
