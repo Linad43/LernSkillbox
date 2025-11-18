@@ -10,6 +10,9 @@
 #include <chrono>
 #include <fstream>
 #include <map>
+#include <ctime>
+#include <iomanip>
+#include <thread>
 
 int random(int min, int max);
 float random(float min, float max);
