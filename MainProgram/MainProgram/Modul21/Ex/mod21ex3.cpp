@@ -1,6 +1,6 @@
 ﻿#include "..\header_modul21.h"
 using namespace std::string_literals;
-struct point {
+/*struct point {
 	double x = 0.0;
 	double y = 0.0;
 
@@ -13,7 +13,7 @@ struct point {
 		//sprintf(result, "[%f;%f]", x, y);
 		return result;
 	}
-};
+};*/
 
 point add(point A, point B) {
 	point result;
