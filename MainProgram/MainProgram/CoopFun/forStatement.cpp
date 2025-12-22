@@ -17,6 +17,18 @@ bool lackNum(std::string text) {
 	return true;
 }
 
+bool isDigit(std::string input, bool checkNumPhone) {
+	for (int i = 0; i < input.size(); i++) {
+		if (input[i] < '0' || input[i] > '9') {
+			if (checkNumPhone && input[i] != '+') {
+				return false;
+			}
+			return false;
+		}
+	}
+	return true;
+}
+
 std::string checkName(std::string input) {
 	std::string result = "";
 	if (input.size() > 2 && lackNum(input)){

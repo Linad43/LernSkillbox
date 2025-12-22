@@ -45,6 +45,7 @@ std::string checkDate(std::string input);
 int checkPayment(std::string input);
 std::string strToLow(std::string input);
 std::string delSpace(std::string text);
+bool isDigit(std::string input, bool checkNumPhone = false);
 
 struct point { 
 	double x; 
