@@ -1,31 +1,31 @@
 ﻿#include "..\header_modul26.h"
 
-class Point {
-	int x;
-	int y;
-public:
-	void setX(int pointX) {
-		x = pointX;
-	}
-	void setY(int pointY) {
-		y = pointY;
-	}
-	int getX() {
-		return x;
-	}
-	int getY() {
-		return y;
-	}
-	std::string toString() {
-		return "[" + std::to_string(x) +
-			";" + std::to_string(y) + "]";
-	}
-
-	Point(int x, int y)
-		: x(x), y(y)
-	{
-	}
-};
+//class Point {
+//	int x;
+//	int y;
+//public:
+//	void setX(int pointX) {
+//		x = pointX;
+//	}
+//	void setY(int pointY) {
+//		y = pointY;
+//	}
+//	int getX() {
+//		return x;
+//	}
+//	int getY() {
+//		return y;
+//	}
+//	std::string toString() {
+//		return "[" + std::to_string(x) +
+//			";" + std::to_string(y) + "]";
+//	}
+//
+//	Point(int x, int y)
+//		: x(x), y(y)
+//	{
+//	}
+//};
 
 class Screen {
 	int height;

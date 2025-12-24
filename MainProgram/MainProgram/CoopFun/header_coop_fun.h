@@ -14,6 +14,8 @@
 #include <iomanip>
 #include <thread>
 
+const double PI = acos(-1);
+
 int random(int min, int max);
 float random(float min, float max);
 void rusText();
@@ -46,6 +48,20 @@ int checkPayment(std::string input);
 std::string strToLow(std::string input);
 std::string delSpace(std::string text);
 bool isDigit(std::string input, bool checkNumPhone = false);
+class Point {
+	double x;
+	double y;
+	Point() = default;
+public:
+	void setX(double pointX);
+	void setY(double pointY);
+	double getX();
+	double getY();
+	std::string toString();
+	Point(double x, double y);
+
+	
+};
 
 struct point { 
 	double x; 
