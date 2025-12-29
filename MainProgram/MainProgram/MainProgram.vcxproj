@@ -219,6 +219,10 @@
     <ClCompile Include="Modul27\Ex\mod27ex2.cpp" />
     <ClCompile Include="Modul27\Ex\mod27ex3.cpp" />
     <ClCompile Include="Modul27\modul27.cpp" />
+    <ClCompile Include="Modul28\Ex\mod28ex1.cpp" />
+    <ClCompile Include="Modul28\Ex\mod28ex2.cpp" />
+    <ClCompile Include="Modul28\Ex\mod28ex3.cpp" />
+    <ClCompile Include="Modul28\modul28.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex1.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex2.cpp" />
     <ClCompile Include="Modul2\Ex\mod2ex3.cpp" />
@@ -299,6 +303,7 @@
     <ClInclude Include="Modul24\header_modul24.h" />
     <ClInclude Include="Modul26\header_modul26.h" />
     <ClInclude Include="Modul27\header_modul27.h" />
+    <ClInclude Include="Modul28\header_modul28.h" />
     <ClInclude Include="Modul2\header_modul2.h" />
     <ClInclude Include="Modul3\header_modul3.h" />
     <ClInclude Include="Modul4\header_modul4.h" />

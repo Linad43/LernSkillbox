@@ -468,6 +468,18 @@
     <ClCompile Include="Modul27\modul27.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Modul28\Ex\mod28ex1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul28\Ex\mod28ex2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul28\Ex\mod28ex3.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Modul28\modul28.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Modul2\header_modul2.h">
@@ -549,6 +561,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Modul27\header_modul27.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Modul28\header_modul28.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
