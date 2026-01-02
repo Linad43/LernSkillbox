@@ -676,7 +676,6 @@
     <Text Include="Modul20\basket.txt" />
     <Text Include="Modul20\pic.txt" />
     <Text Include="Modul21\statement.txt" />
-    <Text Include="CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Modul19\test.png">
