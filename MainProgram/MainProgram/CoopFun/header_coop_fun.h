@@ -13,6 +13,8 @@
 #include <ctime>
 #include <iomanip>
 #include <thread>
+#include <mutex>
+#include <algorithm>
 
 const double PI = acos(-1);
 

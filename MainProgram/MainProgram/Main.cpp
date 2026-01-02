@@ -2,6 +2,9 @@
 
 int main() {
 	rusText();
+
+	srand(time(NULL));
+
 	int choise = 1;
 	while (choise > 0) {
 		std::cout << "Изучения С++ на SkillBox\n";

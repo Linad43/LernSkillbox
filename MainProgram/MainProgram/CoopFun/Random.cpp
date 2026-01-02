@@ -9,5 +9,7 @@ int random(int min, int max) {
 Создание случайного вещественного числа в пределах от min(включительно) до max(включительно*)
 */
 float random(float min, float max) {
-	return random((int)min, (int)max) + (float)random((int)((min - (int)min) * 1000), (int)((max - (int)max) * 1000)) / 1000;
+	int integer = random((int)min, (int)max - 1);
+	float fract = random((int)0, (int)1000) / 1000.0;
+	return integer + fract;
 }
