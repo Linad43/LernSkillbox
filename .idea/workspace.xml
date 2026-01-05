@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="LernSkillbox" targetName="LernSkillbox" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/CreateVar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/CreateVar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/Point.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/Point.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/Random.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/Random.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/RusText.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/RusText.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/combinatorics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/combinatorics.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/fibonacci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/fibonacci.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/forStatement.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/forStatement.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/header_coop_fun.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/header_coop_fun.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/indicators.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/nok&amp;nod.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/nok&amp;nod.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/split.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/split.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/stringOperation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/stringOperation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/swap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/swap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/vectorOperation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/vectorOperation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/Ex/mod12ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/Ex/mod12ex4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/Ex/mod14ex8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/Ex/mod14ex8.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul16/Ex/mod16ex5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul16/Ex/mod16ex5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul17/Ex/mod17ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul17/Ex/mod17ex3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/Ex/mod19ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/Ex/mod19ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/Ex/mod20ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/Ex/mod20ex3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul21/Ex/mod21ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul21/Ex/mod21ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul22/Ex/mod22ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul22/Ex/mod22ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul22/Ex/mod22ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul22/Ex/mod22ex2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul24/Ex/mod24ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul24/Ex/mod24ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul26/Ex/mod26ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul26/Ex/mod26ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul27/Ex/mod27ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul27/Ex/mod27ex3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul28/Ex/mod28ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul28/Ex/mod28ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul28/Ex/mod28ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul28/Ex/mod28ex3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Ex/mod3ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Ex/mod3ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex8.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex8.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/mod9ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/mod9ex4.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Linad43"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Linad43/LernSkillbox.git",
+    "accountId": "f4152c08-96b3-402b-9d50-55adabf00be7"
+  }
+}]]></component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="2.3" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="37qXvf2j5IGPxjHCxWfUxwFV8MG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.LernSkillbox.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "LernInCLion",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C++",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LernSkillbox" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="LernSkillbox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LernSkillbox" RUN_TARGET_NAME="LernSkillbox">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="" />
+      <created>1767631807073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767631807073</updated>
+      <workItem from="1767631808922" duration="12000" />
+      <workItem from="1767631841298" duration="13665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
