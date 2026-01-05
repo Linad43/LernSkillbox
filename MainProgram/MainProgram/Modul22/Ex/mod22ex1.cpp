@@ -114,14 +114,14 @@ void mod22ex1() {
 			auto names = getName(input);
 			std::cout << names << std::endl;
 		}
-		else if (strToLow(input) == "help") {
+		else if (stringToLower(input) == "help") {
 			std::cout << "\"69-70-30 Ivanov\" - add number phone and name\n";
 			std::cout << "\"69-70-30\" - find name by number\n";
 			std::cout << "\"Ivanov\" - find num phone by name\n";
 			std::cout << "\"help\" - open manual\n";
 			std::cout << "\"q\" - exit\n";
 		}
-		else if (strToLow(input) == "q") {
+		else if (stringToLower(input) == "q") {
 			break;
 		}
 		else {

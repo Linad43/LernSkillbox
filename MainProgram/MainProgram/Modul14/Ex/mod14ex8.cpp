@@ -437,11 +437,11 @@ int checkShot(char filedHide[SIZE_FILED][SIZE_FILED], char parentFiled[SIZE_FILE
 			}
 		}
 		return sizeShip;
-		break;
 	}
 	default:
 		break;
 	}
+	return -1;
 }
 
 void game(char filed[2][SIZE_FILED][SIZE_FILED]) {

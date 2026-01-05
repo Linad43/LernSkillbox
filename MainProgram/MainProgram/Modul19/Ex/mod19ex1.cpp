@@ -3,7 +3,7 @@
 int countSubstr(std::ifstream& readFile, const char* findString) {
 	int count = 0;
 	char bufChar;
-	int lenghtFindStr = lenghtStr(findString);
+	int lenghtFindStr = lengthString(findString);
 	int j = 0;
 	while (!readFile.eof()) {
 		readFile >> bufChar;

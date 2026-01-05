@@ -73,7 +73,7 @@ void mod20ex3() {
 		std::cout << "What kind of fish are you going to catch?\n";
 		std::string typeFish;
 		std::cin >> typeFish;
-		typeFish = strToLow(typeFish);
+		typeFish = stringToLower(typeFish);
 		int indexBeg = 0, indexEnd = 0;
 		findFish(typeFish, indexBeg, indexEnd);
 		if (indexEnd - indexBeg == typeFish.size() - 1) {

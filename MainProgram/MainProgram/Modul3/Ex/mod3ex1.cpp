@@ -17,19 +17,19 @@ void mod3ex1() {
 	int sumMoney = 0;
 	int cost = 20;
 
-	for (int i = 0; i < size(stoping); i++) {
+	for (int i = 0; i < stoping->size(); i++) {
 		std::cout << "Прибываем на остановку: ";
 		std::cout << stoping[i] << std::endl;
 		int passOut = 0;
 		if (i == 0) {
 			std::cout << "Это первая остановка, автобус пуст\n";
 		}
-		else if (i != size(stoping) - 1) {
+		else if (i != stoping->size() - 1) {
 			std::cout << "Сколько пассажиров вышло на остановке?\n";
 			std::cin >> passOut;
 		}
 		int passIn = 0;
-		if (i != size(stoping) - 1) {
+		if (i != stoping->size() - 1) {
 			std::cout << "Сколько пассажиров зашло на остановке?\n";
 			std::cin >> passIn;
 		}
@@ -38,7 +38,7 @@ void mod3ex1() {
 		}
 
 		sumMoney += passIn * cost;
-		if (i != size(stoping) - 1) {
+		if (i != stoping->size() - 1) {
 			std::cout << "Отправляемся с остановки ";
 			std::cout << stoping[i] << ". ";
 			countClient += passIn - passOut;

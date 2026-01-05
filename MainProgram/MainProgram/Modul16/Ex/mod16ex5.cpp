@@ -62,7 +62,7 @@ int setHeating() {
 	return 0;
 }
 
-bool setConditioner() {
+int setConditioner() {
 	if (!conditioner) {
 		if (tempIn >= 30) {
 			return 1;
@@ -207,12 +207,12 @@ void mod16ex5() {
 
 		switch (setConditioner())
 		{
-		case -1: {
+		case false: {
 			std::cout << "Conditioner OFF!\n";
 			conditioner = false;
 			break;
 		}
-		case 1: {
+		case true: {
 			std::cout << "Conditioner ON!\n";
 			conditioner = true;
 			break;

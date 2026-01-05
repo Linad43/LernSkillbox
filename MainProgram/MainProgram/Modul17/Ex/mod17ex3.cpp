@@ -9,8 +9,8 @@
 //}
 
 bool subStr(const char* mainStr, const char* subStr) {
-	int lenghtMainStr = lenghtStr(mainStr);
-	int lenghtSubStr = lenghtStr(subStr);
+	int lenghtMainStr = lengthString(mainStr);
+	int lenghtSubStr = lengthString(subStr);
 	int i = 0, j;
 	while (i < lenghtMainStr - lenghtSubStr) {
 		j = 0;

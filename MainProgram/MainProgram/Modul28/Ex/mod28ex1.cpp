@@ -6,7 +6,7 @@ std::mutex cout_mutex;
 
 class Swimmer {
 	std::string name = "player " + std::to_string(++nowCountSwimmer);
-	double speed = (double)random((float)1, 10.0);
+	double speed = randomFloat(1, 10);
 	double distance = 0;
 public:
 	std::string getName() {

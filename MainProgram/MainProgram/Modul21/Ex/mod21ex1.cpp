@@ -12,11 +12,11 @@ struct stateElement {
 			<< date << " "
 			<< pay << "\n";
 	}
-	char* toStringStr() {
-		char result[50];
-		sprintf(result, "%s %s %d %s\n", firstName, lastName, pay, date);
-		return result;
-	}
+	// std::string toStringStr() {
+	// 	char result[50];
+	// 	sprintf(result, "%s %s %d %s\n", firstName, lastName, pay, date);
+	// 	return result;
+	// }
 };
 
 std::vector <stateElement> listState;

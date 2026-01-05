@@ -15,11 +15,12 @@
 #include <thread>
 #include <mutex>
 #include <algorithm>
+#include <cmath>
 
-const double PI = acos(-1);
+const double PI = std::acos(-1);
 
-int random(int min, int max);
-float random(float min, float max);
+int randomInt(int min, int max);
+float randomFloat(int min, int max);
 void rusText();
 int nod(int a, int b);
 int nok(int a, int b);
@@ -27,27 +28,27 @@ int createInt(bool flag, const char* text);
 int createInt(bool flag);
 float createFloat(bool flag, const char* text);
 float createFloat(bool flag);
-int fibonacci(int num);
+int fibonacci(int n);
 std::vector<std::string> splitString(const std::string& str, const std::string& del);
-void printVector(const std::vector<int>& numbers);
-void printVector(const std::vector<float>& numbers);
-void printVector(const std::vector<std::string>& numbers);
+void printVector(const std::vector<int>& vec);
+void printVector(const std::vector<float>& vec);
+void printVector(const std::vector<std::string>& vec);
 std::vector<float> vectorStrToFloat(const std::vector<std::string>& vectorString);
 std::vector<int> vectorStrToInt(const std::vector<std::string>& vectorString);
 void swap(int* a, int* b);
 int factorial(int a);
-int selectOrderNotRepit(int n, int m);
-int selectOrderRepit(int n, int m);
-int selectNotOrderNotRepit(int n, int m);
-int selectNotOrderRepit(int n, int m); 
-int lenghtStr(const char* str);
+int selectOrderNotRepetition(int n, int m);
+int selectOrderRepetition(int n, int m);
+int selectNotOrderNotRepetition(int n, int m);
+int selectNotOrderRepetition(int n, int m);
+int lengthString(const char* str);
 int getCurrentYear();
 struct stateElement;
-bool lackNum(std::string text);
+bool isLackNum(std::string text);
 std::string checkName(std::string input);
 std::string checkDate(std::string input);
 int checkPayment(std::string input);
-std::string strToLow(std::string input);
+std::string stringToLower(std::string input);
 std::string delSpace(std::string text);
 bool isDigit(std::string input, bool checkNumPhone = false);
 class Point {

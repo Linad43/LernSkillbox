@@ -13,7 +13,7 @@ void mod4ex8() {
 	int max = salary[0];
 	int min = max;
 	int sum = 0;
-	for (int i = 0; i < std::size(salary); i++) {
+	for (int i = 0; i < lengthString((char*)salary); i++) {
 		if (salary[i] > max) {
 			max = salary[i];
 		}

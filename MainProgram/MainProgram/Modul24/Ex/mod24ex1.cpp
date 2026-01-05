@@ -95,7 +95,7 @@ void mod24ex1() {
 	task newTask;
 	do {
 		std::cin >> input;
-		if (strToLow(input) == "begin") {
+		if (stringToLower(input) == "begin") {
 			if (newTask.startTime != -1) {
 				newTask.endTime = menuEnd();
 				newTask.setSecond();
@@ -104,7 +104,7 @@ void mod24ex1() {
 			}
 			newTask = menuBegin();
 		}
-		else if (strToLow(input) == "end") {
+		else if (stringToLower(input) == "end") {
 			if (newTask.startTime != -1) {
 				newTask.endTime = menuEnd();
 				newTask.setSecond();
@@ -115,10 +115,10 @@ void mod24ex1() {
 				std::cout << "Not started\n";
 			}
 		}
-		else if (strToLow(input) == "status") {
+		else if (stringToLower(input) == "status") {
 			menuStatus(newTask);
 		}
-		else if (strToLow(input) == "exit") {
+		else if (stringToLower(input) == "exit") {
 			break;
 		}
 	} while (true);

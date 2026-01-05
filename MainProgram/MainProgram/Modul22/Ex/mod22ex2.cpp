@@ -13,6 +13,7 @@ bool addMap(std::string inputName) {
 	else {
 		names[nameVer] = 1;
 	}
+	return true;
 }
 
 std::string getMap() {
@@ -33,10 +34,10 @@ void mod22ex2() {
 	do {
 		std::cout << "Input wait\n";
 		std::cin >> input;
-		if (strToLow(input) == "next") {
+		if (stringToLower(input) == "next") {
 			std::cout << getMap() << std::endl;
 		}
-		else if (strToLow(input) == "q") {
+		else if (stringToLower(input) == "q") {
 			break;
 		}
 		else {
