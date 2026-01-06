@@ -33,9 +33,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="modul29ex1 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul29/Ex/mod29ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul29/Ex/mod29ex2.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +134,7 @@
       <workItem from="1767681237764" duration="4010000" />
       <workItem from="1767703803966" duration="317000" />
       <workItem from="1767704141797" duration="4393000" />
-      <workItem from="1767708584965" duration="136000" />
+      <workItem from="1767708584965" duration="7645000" />
     </task>
     <task id="LOCAL-00001" summary="New branch whis CLion">
       <option name="closed" value="true" />
@@ -186,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767708323099</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="modul29ex1 done">
+      <option name="closed" value="true" />
+      <created>1767708753115</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767708753115</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modul29ex1 done">
+      <option name="closed" value="true" />
+      <created>1767708836689</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767708836689</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
