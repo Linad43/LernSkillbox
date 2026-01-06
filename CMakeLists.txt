@@ -214,7 +214,7 @@ add_executable(LernSkillbox
         MainProgram/MainProgram/Modul9/header_modul9.h
         MainProgram/MainProgram/Modul9/modul9.cpp
         MainProgram/MainProgram/header_main.h
-        MainProgram/MainProgram/main.cpp
+        MainProgram/MainProgram/Main.cpp
         MainProgram/MainProgram/Modul29/header_modul29.h
         MainProgram/MainProgram/Modul29/modul29.cpp
         MainProgram/MainProgram/Modul29/Ex/mod29ex1.cpp
