@@ -3,8 +3,21 @@ project(LernSkillbox)
 
 set(CMAKE_CXX_STANDARD 14)
 
+include(FetchContent)
+FetchContent_Declare(cpr GIT_REPOSITORY https://github.com/libcpr/cpr.git
+        GIT_TAG 1.9.0) # Replace with your desired git commit from: https://github.com/libcpr/cpr/releases
+FetchContent_MakeAvailable(cpr)
+
+set(BUILD_CPR_TESTS OFF)
+set(CMAKE_USE_OPENSSL OFF)
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
+
+
+add_subdirectory(MainProgram/MainProgram/CoopFun)
+
 include_directories(MainProgram/MainProgram)
-include_directories(MainProgram/MainProgram/CoopFun)
+#include_directories(MainProgram/MainProgram/CoopFun)
 include_directories(MainProgram/MainProgram/Modul10)
 include_directories(MainProgram/MainProgram/Modul11)
 include_directories(MainProgram/MainProgram/Modul12)
@@ -33,19 +46,19 @@ include_directories(MainProgram/MainProgram/Modul8)
 include_directories(MainProgram/MainProgram/Modul9)
 
 add_executable(LernSkillbox
-        MainProgram/MainProgram/CoopFun/combinatorics.cpp
-        MainProgram/MainProgram/CoopFun/CreateVar.cpp
-        MainProgram/MainProgram/CoopFun/fibonacci.cpp
-        MainProgram/MainProgram/CoopFun/forStatement.cpp
-        MainProgram/MainProgram/CoopFun/header_coop_fun.h
-        MainProgram/MainProgram/CoopFun/nok&nod.cpp
-        MainProgram/MainProgram/CoopFun/Point.cpp
-        MainProgram/MainProgram/CoopFun/Random.cpp
-        MainProgram/MainProgram/CoopFun/RusText.cpp
-        MainProgram/MainProgram/CoopFun/split.cpp
-        MainProgram/MainProgram/CoopFun/stringOperation.cpp
-        MainProgram/MainProgram/CoopFun/swap.cpp
-        MainProgram/MainProgram/CoopFun/vectorOperation.cpp
+        MainProgram/MainProgram/CoopFun/src/combinatorics.cpp
+        MainProgram/MainProgram/CoopFun/src/CreateVar.cpp
+        MainProgram/MainProgram/CoopFun/src/fibonacci.cpp
+        MainProgram/MainProgram/CoopFun/src/forStatement.cpp
+        MainProgram/MainProgram/CoopFun/include/header_coop_fun.h
+        MainProgram/MainProgram/CoopFun/src/nok&nod.cpp
+        MainProgram/MainProgram/CoopFun/src/Point.cpp
+        MainProgram/MainProgram/CoopFun/src/Random.cpp
+        MainProgram/MainProgram/CoopFun/src/RusText.cpp
+        MainProgram/MainProgram/CoopFun/src/split.cpp
+        MainProgram/MainProgram/CoopFun/src/stringOperation.cpp
+        MainProgram/MainProgram/CoopFun/src/swap.cpp
+        MainProgram/MainProgram/CoopFun/src/vectorOperation.cpp
         MainProgram/MainProgram/Modul10/header_modul10.h
         MainProgram/MainProgram/Modul10/modul10.cpp
         MainProgram/MainProgram/Modul11/Ex/mod11ex1.cpp
@@ -218,4 +231,13 @@ add_executable(LernSkillbox
         MainProgram/MainProgram/Modul29/header_modul29.h
         MainProgram/MainProgram/Modul29/modul29.cpp
         MainProgram/MainProgram/Modul29/Ex/mod29ex1.cpp
-        MainProgram/MainProgram/Modul29/Ex/mod29ex2.cpp)
+        MainProgram/MainProgram/Modul29/Ex/mod29ex2.cpp
+        MainProgram/MainProgram/Modul30/Ex/mod30ex3.cpp
+        MainProgram/MainProgram/Modul30/Ex/mod30ex2.cpp
+        MainProgram/MainProgram/Modul30/Ex/mod30ex1.cpp
+        MainProgram/MainProgram/Modul30/header_modul30.h
+        MainProgram/MainProgram/Modul30/modul30.cpp)
+
+target_link_libraries(LernSkillbox PRIVATE cpr::cpr)
+
+target_include_directories(LernSkillbox PUBLIC ${MY_INCLUDE})

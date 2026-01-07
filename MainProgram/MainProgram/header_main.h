@@ -1,5 +1,5 @@
 ﻿#pragma once
-#include "CoopFun/header_coop_fun.h"
+#include "CoopFun/include/header_coop_fun.h"
 
 void modul2();
 void modul3();

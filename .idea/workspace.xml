@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
     <option name="/Default/Environment/UserInterface/HierarchyView/ViewStyle/@EntryValue" value="SuperTypes" type="string" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
@@ -22,7 +23,12 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
+      <config projectName="LernSkillbox" targetName="uninstall" />
+      <config projectName="LernSkillbox" targetName="CoopFun" />
+      <config projectName="LernSkillbox" targetName="libcurl" />
       <config projectName="LernSkillbox" targetName="LernSkillbox" />
+      <config projectName="LernSkillbox" targetName="cpr" />
+      <config projectName="LernSkillbox" targetName="zlib" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -31,9 +37,31 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="modul29ex1 done">
+    <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="modul29ex2 done">
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/header_modul30.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/modul30.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul29/Ex/mod29ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul29/Ex/mod29ex2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/CreateVar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/CreateVar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/Point.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/Point.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/Random.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/Random.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/RusText.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/RusText.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/combinatorics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/combinatorics.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/fibonacci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/fibonacci.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/forStatement.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/forStatement.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/header_coop_fun.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/include/header_coop_fun.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/nok&amp;nod.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/nok&amp;nod.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/split.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/split.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/stringOperation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/stringOperation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/swap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/swap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/vectorOperation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/vectorOperation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/header_modul2.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/header_modul2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/header_main.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/header_main.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +72,13 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -60,12 +95,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/Linad/CLionProjects/LernSkillbox/MainProgram/MainProgram/Main.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Linad/CLionProjects/LernSkillbox/MainProgram/MainProgram/Main.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Linad/CLionProjects/LernSkillbox/MainProgram/MainProgram/Main.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Linad/CLionProjects/LernSkillbox/MainProgram/MainProgram/Main.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://diff.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://diff.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex1.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -81,39 +111,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;CMake Application.LernSkillbox.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;LearnInCLion&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Linad/CLionProjects/LernSkillbox/MainProgram/MainProgram&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.LernSkillbox.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "LearnInCLion",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Linad/CLionProjects/LernSkillbox/MainProgram/MainProgram",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\Modul2" />
+      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\Modul2\include" />
+      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\Modul2\src" />
+      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\CoopFun\include" />
+      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\CoopFun\src" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="CMake Application.LernSkillbox">
+    <configuration name="CoopFun" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="CoopFun" CONFIG_NAME="Debug">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="LernSkillbox" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="true" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="LernSkillbox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LernSkillbox" RUN_TARGET_NAME="LernSkillbox">
@@ -121,6 +158,39 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpr" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="cpr" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libcurl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="libcurl" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zlib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="zlib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.LernSkillbox" />
+      <item itemvalue="CMake Application.cpr" />
+      <item itemvalue="CMake Application.uninstall" />
+      <item itemvalue="CMake Application.libcurl" />
+      <item itemvalue="CMake Application.zlib" />
+      <item itemvalue="CMake Application.CoopFun" />
+    </list>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -134,7 +204,8 @@
       <workItem from="1767681237764" duration="4010000" />
       <workItem from="1767703803966" duration="317000" />
       <workItem from="1767704141797" duration="4393000" />
-      <workItem from="1767708584965" duration="7645000" />
+      <workItem from="1767708584965" duration="8491000" />
+      <workItem from="1767800812268" duration="11616000" />
     </task>
     <task id="LOCAL-00001" summary="New branch whis CLion">
       <option name="closed" value="true" />
@@ -200,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767708836689</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="modul29ex2 done">
+      <option name="closed" value="true" />
+      <created>1767717713616</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1767717713616</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +321,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New branch whis CLion" />
     <MESSAGE value="modul29ex1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="modul29ex1 done" />
+    <MESSAGE value="modul29ex2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="modul29ex2 done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/include/header_coop_fun.h</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

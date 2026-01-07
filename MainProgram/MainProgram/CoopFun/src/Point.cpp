@@ -1,4 +1,4 @@
-﻿#include "header_coop_fun.h"
+﻿#include "../include/header_coop_fun.h"
 
 void Point::setX(double pointX) {
     x = pointX;
