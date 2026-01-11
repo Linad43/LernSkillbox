@@ -2,7 +2,7 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdlib.h>
-#include <stdio.h>
+//#include <stdio.h>
 #include <string>
 #include <iostream>
 #include <windows.h>
@@ -16,6 +16,7 @@
 #include <mutex>
 #include <algorithm>
 #include <cmath>
+//#include <cpr/cpr.h>
 
 const double PI = std::acos(-1);
 

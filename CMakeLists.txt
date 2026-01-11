@@ -1,22 +1,31 @@
-cmake_minimum_required(VERSION 4.0)
-project(LernSkillbox)
+cmake_minimum_required(VERSION 3.20)
 
-set(CMAKE_CXX_STANDARD 14)
+set(NAME_PROJECT LernSkillbox)
 
-include(FetchContent)
-FetchContent_Declare(cpr GIT_REPOSITORY https://github.com/libcpr/cpr.git
-        GIT_TAG 1.9.0) # Replace with your desired git commit from: https://github.com/libcpr/cpr/releases
-FetchContent_MakeAvailable(cpr)
+project(${NAME_PROJECT})
 
-set(BUILD_CPR_TESTS OFF)
-set(CMAKE_USE_OPENSSL OFF)
-set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
+set(CMAKE_CXX_STANDARD 17)
 
 
-add_subdirectory(MainProgram/MainProgram/CoopFun)
+#find_package(fmt CONFIG REQUIRED)
+
+set(DEFAULT_BUILD_TYPE "Release")
+if (EXISTS "${CMAKE_SOURCE_DIR}/.git")
+    set(DEFAULT_BUILD_TYPE "Debug")
+endif ()
+if (NOT CMAKE_BUILD_TYPE AND NOT CMAKE_CONFIGURATION_TYPES)
+    message(STATUS "Setting build type to '${DEFAULT_BUILD_TYPE}' as none was specified.")
+    set(CMAKE_BUILD_TYPE "${DEFAULT_BUILD_TYPE}" CACHE STRING "Choose the type of build." FORCE)
+    # Set the possible values of build type for cmake-gui
+    set_property(CACHE CMAKE_BUILD_TYPE PROPERTY STRINGS "Debug" "Release" "MinSizeRel" "RelWithDebInfo")
+endif ()
+
+#add_subdirectory(MainProgram/MainProgram/CoopFun)
+#add_subdirectory(MainProgram/MainProgram)
 
 include_directories(MainProgram/MainProgram)
+include_directories(MainProgram/MainProgram/CoopFun/include)
+#target_include_directories(LernSkillbox PUBLIC "MainProgram/MainProgram/CoopFun/include")
 #include_directories(MainProgram/MainProgram/CoopFun)
 include_directories(MainProgram/MainProgram/Modul10)
 include_directories(MainProgram/MainProgram/Modul11)
@@ -45,7 +54,7 @@ include_directories(MainProgram/MainProgram/Modul7)
 include_directories(MainProgram/MainProgram/Modul8)
 include_directories(MainProgram/MainProgram/Modul9)
 
-add_executable(LernSkillbox
+add_executable(${NAME_PROJECT}
         MainProgram/MainProgram/CoopFun/src/combinatorics.cpp
         MainProgram/MainProgram/CoopFun/src/CreateVar.cpp
         MainProgram/MainProgram/CoopFun/src/fibonacci.cpp
@@ -236,8 +245,18 @@ add_executable(LernSkillbox
         MainProgram/MainProgram/Modul30/Ex/mod30ex2.cpp
         MainProgram/MainProgram/Modul30/Ex/mod30ex1.cpp
         MainProgram/MainProgram/Modul30/header_modul30.h
-        MainProgram/MainProgram/Modul30/modul30.cpp)
+        MainProgram/MainProgram/Modul30/modul30.cpp
+)
 
-target_link_libraries(LernSkillbox PRIVATE cpr::cpr)
+if (WIN32) # Install dlls in the same directory as the executable on Windows
+    set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
+    set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
+endif ()
 
-target_include_directories(LernSkillbox PUBLIC ${MY_INCLUDE})
+include(FetchContent)
+FetchContent_Declare(cpr GIT_REPOSITORY https://github.com/libcpr/cpr.git
+        GIT_TAG 1.11.0) # The commit hash for 1.11.x. Replace with the latest from: https://github.com/libcpr/cpr/releases
+FetchContent_MakeAvailable(cpr)
+
+#target_link_libraries(${NAME_PROJECT} PRIVATE fmt::fmt)
+target_link_libraries(${NAME_PROJECT} PRIVATE cpr::cpr)

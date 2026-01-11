@@ -1,4 +1,4 @@
-﻿#include "..\header_modul2.h"
+﻿#include "header_modul2.h"
 
 void mod2ex2() {
 	std::cout << "2. Калькулятор стоимости товара\n";

@@ -1,4 +1,4 @@
-﻿#include "..\header_modul2.h"
+﻿#include "header_modul2.h"
 
 void mod2ex4() {
     std::cout << "4. Непонятная квитанция\n";

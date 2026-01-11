@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug/_deps/cpr-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug/_deps/zlib-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cpr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example-cmake-fetch-content" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example-cmake-fetch-content/build/vcpkg" vcs="Git" />
   </component>
 </project>

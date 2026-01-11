@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BackendCodeEditorMiscSettings">
-    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="8" type="long" />
     <option name="/Default/Environment/UserInterface/HierarchyView/ViewStyle/@EntryValue" value="SuperTypes" type="string" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
@@ -23,45 +23,47 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="LernSkillbox" targetName="uninstall" />
-      <config projectName="LernSkillbox" targetName="CoopFun" />
-      <config projectName="LernSkillbox" targetName="libcurl" />
+      <config projectName="LernSkillbox" targetName="libcurl_object" />
       <config projectName="LernSkillbox" targetName="LernSkillbox" />
+      <config projectName="LernSkillbox" targetName="libcurl_shared" />
       <config projectName="LernSkillbox" targetName="cpr" />
       <config projectName="LernSkillbox" targetName="zlib" />
+      <config projectName="LernSkillbox" targetName="curl_uninstall" />
     </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_TOOLCHAIN_FILE=&quot;C:\Users\Linad\.vcpkg-clion\vcpkg (1)\scripts\buildsystems\vcpkg.cmake&quot; -DVCPKG_TARGET_TRIPLET=x64-mingw-dynamic" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="modul29ex2 done">
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/header_modul30.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/modul30.cpp" afterDir="false" />
+    <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="modify to CMake">
+      <change afterPath="$PROJECT_DIR$/json.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/CreateVar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/CreateVar.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/Point.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/Point.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/Random.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/Random.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/RusText.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/RusText.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/combinatorics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/combinatorics.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/fibonacci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/fibonacci.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/forStatement.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/forStatement.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/header_coop_fun.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/include/header_coop_fun.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/nok&amp;nod.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/nok&amp;nod.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/split.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/split.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/stringOperation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/stringOperation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/swap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/swap.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/vectorOperation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/vectorOperation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/header_modul2.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/header_modul2.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/include/header_coop_fun.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/include/header_coop_fun.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/CreateVar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/CreateVar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/Point.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/Point.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/Random.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/Random.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/RusText.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/RusText.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/fibonacci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/fibonacci.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/forStatement.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/forStatement.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/nok&amp;nod.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/nok&amp;nod.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/split.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/split.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/stringOperation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/stringOperation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/swap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/swap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/vectorOperation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/vectorOperation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex4.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex3.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/header_main.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/header_main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +97,56 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex1.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MainProgram/MainProgram/Modul2/header_modul2.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -125,7 +176,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "LearnInCLion",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Linad/CLionProjects/LernSkillbox/MainProgram/MainProgram",
+    "last_opened_file_path": "C:/Users/Linad/CLionProjects/LernSkillbox/MainProgram/MainProgram/Modul30/Ex",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -137,22 +188,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\Modul30\Ex" />
       <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox" />
       <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\Modul2" />
+      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\Modul2\Ex" />
       <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\Modul2\include" />
       <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\Modul2\src" />
-      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\CoopFun\include" />
-      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\CoopFun\src" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.LernSkillbox">
-    <configuration name="CoopFun" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="CoopFun" CONFIG_NAME="Debug">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LernSkillbox" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="true" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="LernSkillbox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LernSkillbox" RUN_TARGET_NAME="LernSkillbox">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -168,12 +215,17 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="libcurl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="libcurl" CONFIG_NAME="Debug">
+    <configuration name="curl_uninstall" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="curl_uninstall" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+    <configuration name="libcurl_object" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="libcurl_object" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libcurl_shared" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="libcurl_shared" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -186,10 +238,10 @@
     <list>
       <item itemvalue="CMake Application.LernSkillbox" />
       <item itemvalue="CMake Application.cpr" />
-      <item itemvalue="CMake Application.uninstall" />
-      <item itemvalue="CMake Application.libcurl" />
+      <item itemvalue="CMake Application.curl_uninstall" />
+      <item itemvalue="CMake Application.libcurl_object" />
+      <item itemvalue="CMake Application.libcurl_shared" />
       <item itemvalue="CMake Application.zlib" />
-      <item itemvalue="CMake Application.CoopFun" />
     </list>
   </component>
   <component name="TaskManager">
@@ -205,7 +257,11 @@
       <workItem from="1767703803966" duration="317000" />
       <workItem from="1767704141797" duration="4393000" />
       <workItem from="1767708584965" duration="8491000" />
-      <workItem from="1767800812268" duration="11616000" />
+      <workItem from="1767800812268" duration="12006000" />
+      <workItem from="1767853846656" duration="410000" />
+      <workItem from="1767969718312" duration="10011000" />
+      <workItem from="1768030601130" duration="2915000" />
+      <workItem from="1768133554849" duration="13970000" />
     </task>
     <task id="LOCAL-00001" summary="New branch whis CLion">
       <option name="closed" value="true" />
@@ -279,14 +335,22 @@
       <option name="project" value="LOCAL" />
       <updated>1767717713616</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="modify to CMake">
+      <option name="closed" value="true" />
+      <created>1767813315366</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1767813315366</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VCPKGProject">
-    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticCheckingOnLaunch value="true" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
   </component>
@@ -322,18 +386,8 @@
     <MESSAGE value="New branch whis CLion" />
     <MESSAGE value="modul29ex1 done" />
     <MESSAGE value="modul29ex2 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="modul29ex2 done" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/include/header_coop_fun.h</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="modify to CMake" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify to CMake" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
