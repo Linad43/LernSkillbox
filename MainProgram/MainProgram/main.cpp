@@ -3,10 +3,10 @@
 int main() {
     rusText();
 
-    srand(time(NULL));
+    srand(time(nullptr));
 
-    int choise = 1;
-    while (choise > 0) {
+    int choice = 1;
+    while (choice > 0) {
         std::cout << "Изучения С++ на SkillBox\n";
         std::cout << "Выберите модуль:\n";
         std::cout << "1. Модуль 1(Нет д/з)\n";
@@ -41,9 +41,9 @@ int main() {
         std::cout << "30. Модуль 30\n";
         std::cout << "\n0. Выход\n";
 
-        std::cin >> choise;
+        std::cin >> choice;
 
-        switch (choise) {
+        switch (choice) {
             case 1: {
                 system("cls");
                 std::cout << "Нет домашнего задания\n";
@@ -226,7 +226,7 @@ int main() {
                 break;
             };
             default:
-                choise = 0;
+                choice = 0;
         }
     }
 }
