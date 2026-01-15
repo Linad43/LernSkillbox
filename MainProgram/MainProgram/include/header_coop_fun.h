@@ -16,6 +16,7 @@
 #include <mutex>
 #include <algorithm>
 #include <cmath>
+#include <memory>
 //#include <cpr/cpr.h>
 
 const double PI = std::acos(-1);

@@ -248,6 +248,10 @@ add_executable(${NAME_PROJECT} MainProgram/MainProgram/main.cpp
         MainProgram/MainProgram/src/Modul30/Ex/mod30ex1.cpp
 #        MainProgram/MainProgram/include/header_modul30.h
         MainProgram/MainProgram/src/Modul30/modul30.cpp
+        MainProgram/MainProgram/src/Modul31/modul31.cpp
+        MainProgram/MainProgram/src/Modul31/Ex/mod31ex1.cpp
+        MainProgram/MainProgram/include/header_modul31.h
+        MainProgram/MainProgram/src/Modul31/Ex/mod31ex2.cpp
 )
 
 if (WIN32) # Install dlls in the same directory as the executable on Windows

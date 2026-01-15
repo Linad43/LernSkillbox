@@ -38,307 +38,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="edit all dir and sort include or src">
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul31.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul31/Ex/mod31ex1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul31/Ex/mod31ex2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul31/modul31.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_01_2026_17_07_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_06_01_2026_17_07__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/include/header_coop_fun.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_coop_fun.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/CreateVar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/CreateVar.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/Point.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/Point.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/Random.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/Random.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/RusText.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/RusText.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/combinatorics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/combinatorics.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/fibonacci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/fibonacci.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/forStatement.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/forStatement.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/nok&amp;nod.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/nok&amp;nod.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/split.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/split.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/stringOperation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/stringOperation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/swap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/swap.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/CoopFun/src/vectorOperation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/vectorOperation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul10/ReadMe_modul10.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul10/ReadMe_modul10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul10/header_modul10.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul10.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul10/modul10.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul10/modul10.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul11/Ex/ReadMe_mod11ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul11/Ex/ReadMe_mod11ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul11/Ex/ReadMe_mod11ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul11/Ex/ReadMe_mod11ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul11/Ex/ReadMe_mod11ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul11/Ex/ReadMe_mod11ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul11/Ex/mod11ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul11/Ex/mod11ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul11/Ex/mod11ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul11/Ex/mod11ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul11/Ex/mod11ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul11/Ex/mod11ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul11/ReadMe_modul11.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul11/ReadMe_modul11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul11/header_modul11.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul11.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul11/modul11.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul11/modul11.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/Ex/ReadMe_mod12ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul12/Ex/ReadMe_mod12ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/Ex/ReadMe_mod12ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul12/Ex/ReadMe_mod12ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/Ex/ReadMe_mod12ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul12/Ex/ReadMe_mod12ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/Ex/ReadMe_mod12ex4.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul12/Ex/ReadMe_mod12ex4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/Ex/mod12ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul12/Ex/mod12ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/Ex/mod12ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul12/Ex/mod12ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/Ex/mod12ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul12/Ex/mod12ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/Ex/mod12ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul12/Ex/mod12ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/ReadMe_modul12.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul12/ReadMe_modul12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/header_modul12.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul12.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul12/modul12.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul12/modul12.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul13/Ex/ReadMe_mod13ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul13/Ex/ReadMe_mod13ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul13/Ex/ReadMe_mod13ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul13/Ex/ReadMe_mod13ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul13/Ex/ReadMe_mod13ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul13/Ex/ReadMe_mod13ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul13/Ex/mod13ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul13/Ex/mod13ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul13/Ex/mod13ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul13/Ex/mod13ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul13/Ex/mod13ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul13/Ex/mod13ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul13/ReadMe_modul13.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul13/ReadMe_modul13.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul13/header_modul13.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul13.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul13/modul13.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul13/modul13.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/Ex/mod14ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul14/Ex/mod14ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/Ex/mod14ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul14/Ex/mod14ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/Ex/mod14ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul14/Ex/mod14ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/Ex/mod14ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul14/Ex/mod14ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/Ex/mod14ex5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul14/Ex/mod14ex5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/Ex/mod14ex6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul14/Ex/mod14ex6.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/Ex/mod14ex7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul14/Ex/mod14ex7.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/Ex/mod14ex8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul14/Ex/mod14ex8.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/header_modul14.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul14.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul14/modul14.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul14/modul14.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul15/Ex/mod15ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul15/Ex/mod15ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul15/Ex/mod15ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul15/Ex/mod15ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul15/Ex/mod15ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul15/Ex/mod15ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul15/Ex/mod15ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul15/Ex/mod15ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul15/header_modul15.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul15.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul15/modul15.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul15/modul15.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul16/Ex/mod16ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul16/Ex/mod16ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul16/Ex/mod16ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul16/Ex/mod16ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul16/Ex/mod16ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul16/Ex/mod16ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul16/Ex/mod16ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul16/Ex/mod16ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul16/Ex/mod16ex5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul16/Ex/mod16ex5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul16/header_modul16.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul16.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul16/modul16.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul16/modul16.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul17/Ex/mod17ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul17/Ex/mod17ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul17/Ex/mod17ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul17/Ex/mod17ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul17/Ex/mod17ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul17/Ex/mod17ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul17/header_modul17.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul17.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul17/modul17.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul17/modul17.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul18/Ex/mod18ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul18/Ex/mod18ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul18/Ex/mod18ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul18/Ex/mod18ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul18/Ex/mod18ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul18/Ex/mod18ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul18/header_modul18.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul18.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul18/modul18.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul18/modul18.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/Ex/mod19ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/Ex/mod19ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/Ex/mod19ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/Ex/mod19ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/Ex/mod19ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/Ex/mod19ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/Ex/mod19ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/Ex/mod19ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/Ex/mod19ex5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/Ex/mod19ex5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/answer9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/answer9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/game9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/game9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/header_modul19.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul19.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/modul19.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/modul19.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/statement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/statement.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/test.png" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/test.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul19/words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul19/words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/ReadMe_mod2ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/Ex/ReadMe_mod2ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/ReadMe_mod2ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/Ex/ReadMe_mod2ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/ReadMe_mod2ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/Ex/ReadMe_mod2ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/ReadMe_mod2ex4.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/Ex/ReadMe_mod2ex4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/Ex/mod2ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/Ex/mod2ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/Ex/mod2ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Ex/mod2ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/Ex/mod2ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/Modul2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/Modul2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/ReadMe_modul2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/ReadMe_modul2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul2/header_modul2.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul2.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/ATP.bin" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul20/ATP.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/Ex/mod20ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul20/Ex/mod20ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/Ex/mod20ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul20/Ex/mod20ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/Ex/mod20ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul20/Ex/mod20ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/Ex/mod20ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul20/Ex/mod20ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/basket.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul20/basket.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/header_modul20.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul20.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/modul20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul20/modul20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/pic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul20/pic.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/river.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul20/river.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul20/statement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul20/statement.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul21/Ex/mod21ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul21/Ex/mod21ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul21/Ex/mod21ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul21/Ex/mod21ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul21/Ex/mod21ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul21/Ex/mod21ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul21/Ex/mod21ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul21/Ex/mod21ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul21/header_modul21.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul21.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul21/modul21.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul21/modul21.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul21/statement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul21/statement.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul22/Ex/mod22ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul22/Ex/mod22ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul22/Ex/mod22ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul22/Ex/mod22ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul22/Ex/mod22ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul22/Ex/mod22ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul22/header_modul22.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul22.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul22/modul22.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul22/modul22.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul23/Ex/mod23ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul23/Ex/mod23ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul23/Ex/mod23ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul23/Ex/mod23ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul23/Ex/mod23ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul23/Ex/mod23ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul23/header_modul23.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul23.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul23/modul23.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul23/modul23.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul24/Ex/mod24ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul24/Ex/mod24ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul24/Ex/mod24ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul24/Ex/mod24ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul24/Ex/mod24ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul24/Ex/mod24ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul24/header_modul24.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul24.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul24/modul24.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul24/modul24.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul26/Ex/mod26ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul26/Ex/mod26ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul26/Ex/mod26ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul26/Ex/mod26ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul26/Ex/mod26ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul26/Ex/mod26ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul26/header_modul26.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul26.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul26/modul26.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul26/modul26.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul27/Ex/mod27ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul27/Ex/mod27ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul27/Ex/mod27ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul27/Ex/mod27ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul27/Ex/mod27ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul27/Ex/mod27ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul27/header_modul27.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul27.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul27/modul27.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul27/modul27.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul28/Ex/mod28ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul28/Ex/mod28ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul28/Ex/mod28ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul28/Ex/mod28ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul28/Ex/mod28ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul28/Ex/mod28ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul28/header_modul28.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul28.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul28/modul28.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul28/modul28.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul29/Ex/mod29ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul29/Ex/mod29ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul29/Ex/mod29ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul29/Ex/mod29ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul29/header_modul29.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul29.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul29/modul29.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul29/modul29.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Ex/ReadMe_mod3ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul3/Ex/ReadMe_mod3ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Ex/ReadMe_mod3ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul3/Ex/ReadMe_mod3ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Ex/ReadMe_mod3ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul3/Ex/ReadMe_mod3ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Ex/ReadMe_mod3ex4.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul3/Ex/ReadMe_mod3ex4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Ex/mod3ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul3/Ex/mod3ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Ex/mod3ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul3/Ex/mod3ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Ex/mod3ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul3/Ex/mod3ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Ex/mod3ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul3/Ex/mod3ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/Modul3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul3/Modul3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/ReadMe_modul3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul3/ReadMe_modul3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul3/header_modul3.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul3.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul30/Ex/mod30ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul30/Ex/mod30ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/Ex/mod30ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul30/Ex/mod30ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/header_modul30.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul30.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul30/modul30.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul30/modul30.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/ReadMe_mod4ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/ReadMe_mod4ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/ReadMe_mod4ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/ReadMe_mod4ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/ReadMe_mod4ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/ReadMe_mod4ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/ReadMe_mod4ex4.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/ReadMe_mod4ex4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/ReadMe_mod4ex5.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/ReadMe_mod4ex5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/ReadMe_mod4ex6.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/ReadMe_mod4ex6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/ReadMe_mod4ex7.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/ReadMe_mod4ex7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/ReadMe_mod4ex8.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/ReadMe_mod4ex8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/ReadMe_mod4ex9.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/ReadMe_mod4ex9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/mod4ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/mod4ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/mod4ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/mod4ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/mod4ex5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/mod4ex6.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/mod4ex7.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/mod4ex8.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Ex/mod4ex9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Ex/mod4ex9.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/Modul4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/Modul4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/ReadMe_modul4.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul4/ReadMe_modul4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul4/header_modul4.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul4.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/ReadMe_mod5ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/ReadMe_mod5ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/ReadMe_mod5ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/ReadMe_mod5ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/ReadMe_mod5ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/ReadMe_mod5ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/ReadMe_mod5ex4.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/ReadMe_mod5ex4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/ReadMe_mod5ex5.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/ReadMe_mod5ex5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/ReadMe_mod5ex6.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/ReadMe_mod5ex6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/mod5ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/mod5ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/mod5ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/mod5ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/mod5ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/mod5ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/mod5ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/mod5ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/mod5ex5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/mod5ex5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Ex/mod5ex6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Ex/mod5ex6.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/Modul5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/Modul5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/ReadMe_modul5.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul5/ReadMe_modul5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul5/header_modul5.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul5.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/ReadMe_mod6ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/ReadMe_mod6ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/ReadMe_mod6ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/ReadMe_mod6ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/ReadMe_mod6ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/ReadMe_mod6ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/ReadMe_mod6ex4.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/ReadMe_mod6ex4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/ReadMe_mod6ex5.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/ReadMe_mod6ex5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/ReadMe_mod6ex6.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/ReadMe_mod6ex6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/ReadMe_mod6ex7.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/ReadMe_mod6ex7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/ReadMe_mod6ex8.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/ReadMe_mod6ex8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/ReadMe_mod6ex9.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/ReadMe_mod6ex9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/mod6ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/mod6ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/mod6ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/mod6ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/mod6ex5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/mod6ex6.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/mod6ex7.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/mod6ex8.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/Ex/mod6ex9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/Ex/mod6ex9.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/ReadMe_modul6.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/ReadMe_modul6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/header_modul6.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul6.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul6/modul6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul6/modul6.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/ReadMe_mod7ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/ReadMe_mod7ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/ReadMe_mod7ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/ReadMe_mod7ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/ReadMe_mod7ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/ReadMe_mod7ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/ReadMe_mod7ex4.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/ReadMe_mod7ex4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/ReadMe_mod7ex5.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/ReadMe_mod7ex5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/ReadMe_mod7ex6.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/ReadMe_mod7ex6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/ReadMe_mod7ex7.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/ReadMe_mod7ex7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/ReadMe_mod7ex8.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/ReadMe_mod7ex8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/mod7ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/mod7ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/mod7ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/mod7ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/mod7ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/mod7ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/mod7ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/mod7ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/mod7ex5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/mod7ex5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/mod7ex6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/mod7ex6.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/mod7ex7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/mod7ex7.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/Ex/mod7ex8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/Ex/mod7ex8.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/ReadMe_modul7.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/ReadMe_modul7.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/header_modul7.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul7.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul7/modul7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul7/modul7.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/ReadMe_mod8ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/ReadMe_mod8ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/ReadMe_mod8ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/ReadMe_mod8ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/ReadMe_mod8ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/ReadMe_mod8ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/ReadMe_mod8ex4.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/ReadMe_mod8ex4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/ReadMe_mod8ex5.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/ReadMe_mod8ex5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/ReadMe_mod8ex6.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/ReadMe_mod8ex6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/mod8ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/mod8ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/mod8ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/mod8ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/mod8ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/mod8ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/mod8ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/mod8ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/mod8ex5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/mod8ex5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/Ex/mod8ex6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/Ex/mod8ex6.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/ReadMe_modul8.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/ReadMe_modul8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/header_modul8.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul8.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul8/modul8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul8/modul8.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/ReadMe_mod9ex1.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/Ex/ReadMe_mod9ex1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/ReadMe_mod9ex2.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/Ex/ReadMe_mod9ex2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/ReadMe_mod9ex3.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/Ex/ReadMe_mod9ex3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/ReadMe_mod9ex4.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/Ex/ReadMe_mod9ex4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/ReadMe_mod9ex5.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/Ex/ReadMe_mod9ex5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/mod9ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/Ex/mod9ex1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/mod9ex2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/Ex/mod9ex2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/mod9ex3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/Ex/mod9ex3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/mod9ex4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/Ex/mod9ex4.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/Ex/mod9ex5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/Ex/mod9ex5.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/ReadMe_modul9.md" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/ReadMe_modul9.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/header_modul9.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul9.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/Modul9/modul9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul9/modul9.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/header_main.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_coop_fun.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_coop_fun.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_main.h" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_main.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LernSkillbox.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LernSkillbox.exe" afterDir="false" />
     </list>
@@ -374,6 +83,90 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul2.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MainProgram/MainProgram/src/CoopFun/combinatorics.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MainProgram/MainProgram/src/Modul2/Ex/mod2ex1.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -394,32 +187,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;CMake Application.LernSkillbox.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;LearnInCLion&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Linad/CLionProjects/LernSkillbox/MainProgram/MainProgram/Modul30/Ex&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.LernSkillbox.executor": "Debug",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "LearnInCLion",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Linad/CLionProjects/LernSkillbox/MainProgram/MainProgram/include",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\include" />
+      <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\src" />
       <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram\Modul30\Ex" />
       <recent name="C:\Users\Linad\CLionProjects\LernSkillbox\MainProgram\MainProgram" />
     </key>
@@ -432,12 +227,12 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.LernSkillbox">
-    <configuration name="LernSkillbox" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="true" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="LernSkillbox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LernSkillbox" RUN_TARGET_NAME="LernSkillbox">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="LernSkillbox" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="true" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LernSkillbox" TARGET_NAME="LernSkillbox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LernSkillbox" RUN_TARGET_NAME="LernSkillbox">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -495,7 +290,8 @@
       <workItem from="1768030601130" duration="2915000" />
       <workItem from="1768133554849" duration="14020000" />
       <workItem from="1768149477874" duration="530000" />
-      <workItem from="1768229101583" duration="9212000" />
+      <workItem from="1768229101583" duration="10118000" />
+      <workItem from="1768500789645" duration="2939000" />
     </task>
     <task id="LOCAL-00001" summary="New branch whis CLion">
       <option name="closed" value="true" />
@@ -593,7 +389,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768149842279</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="edit all dir and sort include or src">
+      <option name="closed" value="true" />
+      <created>1768239562534</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768239562534</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -641,6 +445,17 @@
     <MESSAGE value="add .exe for test" />
     <MESSAGE value="edit all dir and sort include or src" />
     <option name="LAST_COMMIT_MESSAGE" value="edit all dir and sort include or src" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/MainProgram/MainProgram/src/Modul31/Ex/mod31ex1.cpp</url>
+          <line>63</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
