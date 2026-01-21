@@ -1,23 +1,18 @@
-﻿//#include <utility>
-
-#include "header_modul31.h"
+﻿#include "header_modul31.h"
 
 class Toy {
-public:
-    std::string getName() const {
-        return name;
-    }
-
-private:
     std::string name;
 
 public:
-    Toy(std::string name)
-        : name(std::move(name)) {
+    explicit Toy(const std::string &name) {
+        this->name = name;
     }
 
+    const std::string &getName() const { return name; }
+
+    //Деструктор, для отображения надписи
     ~Toy() {
-        std::cout << "Toy " << this->name << " was dropped.\n";
+        std::cout << "Toy " << name << " was dropped.\n";
     }
 };
 

@@ -3,3 +3,4 @@
 
 void mod31ex1();
 void mod31ex2();
+void mod31ex2test();
