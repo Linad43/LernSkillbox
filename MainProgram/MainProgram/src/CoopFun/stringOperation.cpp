@@ -45,3 +45,19 @@ std::string delSpace(std::string text) {
     }
     return result;
 }
+
+/**
+ *
+ * @param text Входная строка
+ * @return Строка без пробелов в начале и конце
+ */
+std::string delSpaceBegEnd(const std::string &text) {
+    std::string result = text;
+    while (result[0] == ' ') {
+        result = result.substr(1, result.size());
+    }
+    while (result[result.size() - 1] == ' ') {
+        result = result.substr(0, result.size());
+    }
+    return result;
+}

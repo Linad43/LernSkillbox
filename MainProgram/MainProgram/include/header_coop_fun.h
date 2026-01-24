@@ -44,6 +44,7 @@ int selectOrderRepetition(int n, int m);
 int selectNotOrderNotRepetition(int n, int m);
 int selectNotOrderRepetition(int n, int m);
 int lengthString(const char* str);
+std::string delSpaceBegEnd(const std::string &text);
 int getCurrentYear();
 struct stateElement;
 bool isLackNum(const std::string &text);

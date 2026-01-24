@@ -6,7 +6,7 @@ project(${NAME_PROJECT})
 
 set(CMAKE_CXX_STANDARD 17)
 
-
+set(JSON_BuildTests OFF CACHE INTERNAL "")
 #find_package(fmt CONFIG REQUIRED)
 
 set(DEFAULT_BUILD_TYPE "Release")
@@ -20,6 +20,7 @@ if (NOT CMAKE_BUILD_TYPE AND NOT CMAKE_CONFIGURATION_TYPES)
     set_property(CACHE CMAKE_BUILD_TYPE PROPERTY STRINGS "Debug" "Release" "MinSizeRel" "RelWithDebInfo")
 endif ()
 
+add_subdirectory(nlohmann_json)
 #add_subdirectory(MainProgram/MainProgram/CoopFun)
 #add_subdirectory(MainProgram/MainProgram/src/Modul2/src)
 
@@ -252,6 +253,11 @@ add_executable(${NAME_PROJECT} MainProgram/MainProgram/main.cpp
         MainProgram/MainProgram/src/Modul31/Ex/mod31ex1.cpp
         MainProgram/MainProgram/include/header_modul31.h
         MainProgram/MainProgram/src/Modul31/Ex/mod31ex2.cpp
+        MainProgram/MainProgram/include/header_modul32.h
+        MainProgram/MainProgram/src/Modul32/modul32.cpp
+        MainProgram/MainProgram/src/Modul32/Ex/mod32ex1.cpp
+        MainProgram/MainProgram/src/Modul32/Ex/mod32ex2.cpp
+        MainProgram/MainProgram/src/Modul32/Ex/mod32ex3.cpp
 )
 
 if (WIN32) # Install dlls in the same directory as the executable on Windows
@@ -266,3 +272,4 @@ FetchContent_MakeAvailable(cpr)
 
 #target_link_libraries(${NAME_PROJECT} PRIVATE fmt::fmt)
 target_link_libraries(${NAME_PROJECT} PRIVATE cpr::cpr)
+target_link_libraries(${NAME_PROJECT} PRIVATE nlohmann_json::nlohmann_json)

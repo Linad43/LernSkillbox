@@ -15,8 +15,8 @@ std::vector<std::string> splitString(const std::string &str, const std::string &
     while (true) {
         auto pos = str_in.find(del);
         result.push_back(str_in.substr(0, pos));
-        str_in = str_in.substr(pos + 1);
-        if (pos == std::string::npos) {
+        str_in = str_in.substr(pos + del.size());
+        if (pos == std::string::npos || str_in.empty()) {
             break;
         }
     }
