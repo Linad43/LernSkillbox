@@ -28,13 +28,13 @@ void modul32() {
 			system("cls");
 			break;
 		};
-		case 3: {
-			system("cls");
-			mod32ex3();
-			system("pause");
-			system("cls");
-			break;
-		};
+		// case 3: {
+		// 	system("cls");
+		// 	mod32ex3();
+		// 	system("pause");
+		// 	system("cls");
+		// 	break;
+		// };
 		default:
 			choice = 0;
 		}
