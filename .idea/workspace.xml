@@ -37,16 +37,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="add modal 32 ex 2">
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/include/header_modul33.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul33/Ex/mod33ex1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul33/Ex/mod33ex2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul33/Ex/mod33ex3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul33/Ex/mod33ex4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul33/modul33.cpp" afterDir="false" />
+    <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="add modal 33 to project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul32/Ex/mod32ex3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul33/Ex/mod33ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul33/Ex/mod33ex1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LernSkillbox.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LernSkillbox.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1623,7 +1617,7 @@
       <workItem from="1769003753679" duration="3840000" />
       <workItem from="1769012979739" duration="360000" />
       <workItem from="1769443975216" duration="3104000" />
-      <workItem from="1769518322125" duration="407000" />
+      <workItem from="1769518322125" duration="2999000" />
     </task>
     <task id="LOCAL-00001" summary="New branch whis CLion">
       <option name="closed" value="true" />
@@ -1745,7 +1739,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769287204653</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add modal 33 to project">
+      <option name="closed" value="true" />
+      <created>1769518925564</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1769518925564</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1794,7 +1796,8 @@
     <MESSAGE value="edit all dir and sort include or src" />
     <MESSAGE value="add modal 31 ex 1" />
     <MESSAGE value="add modal 32 ex 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add modal 32 ex 2" />
+    <MESSAGE value="add modal 33 to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add modal 33 to project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
