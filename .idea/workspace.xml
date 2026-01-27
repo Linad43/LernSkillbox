@@ -37,8 +37,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="add modal 33 to project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="74c1e389-d9d8-4218-8cd4-cbdcfcda8e3e" name="Changes" comment="mod33ex1.cpp done">
       <change beforePath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul33/Ex/mod33ex1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MainProgram/MainProgram/src/Modul33/Ex/mod33ex1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LernSkillbox.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LernSkillbox.exe" afterDir="false" />
     </list>
@@ -1617,7 +1616,7 @@
       <workItem from="1769003753679" duration="3840000" />
       <workItem from="1769012979739" duration="360000" />
       <workItem from="1769443975216" duration="3104000" />
-      <workItem from="1769518322125" duration="2999000" />
+      <workItem from="1769518322125" duration="3504000" />
     </task>
     <task id="LOCAL-00001" summary="New branch whis CLion">
       <option name="closed" value="true" />
@@ -1747,7 +1746,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769518925564</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="mod33ex1.cpp done">
+      <option name="closed" value="true" />
+      <created>1769521373846</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1769521373846</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1797,7 +1804,8 @@
     <MESSAGE value="add modal 31 ex 1" />
     <MESSAGE value="add modal 32 ex 2" />
     <MESSAGE value="add modal 33 to project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add modal 33 to project" />
+    <MESSAGE value="mod33ex1.cpp done" />
+    <option name="LAST_COMMIT_MESSAGE" value="mod33ex1.cpp done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

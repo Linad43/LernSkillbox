@@ -34,8 +34,17 @@ void inputProduct(
     std::string *article,
     int *count
 ) {
-    std::cout << "Input your article and count product:\n";
-    std::cin >> *article >> *count;
+    while (true) {
+        std::cout << "Input your article and count product:\n";
+        std::string buf;
+        std::cin >> *article >> buf;
+        if (isDigit(buf)) {
+            *count = atoi(buf.c_str());
+            break;
+        } else {
+            std::cout << "Exception input count, try again.\n";
+        }
+    }
 }
 
 void mod33ex1() {
